@@ -9,21 +9,19 @@ db = client.scibase
 # collection
 db.aminer
 
-print "DB name ", db.name
-print "DB collection", db.publications
-
 
 print "[INFO] Processing papers"
 
 file = open("../data/aminer_publications.txt")
-lines = file.readlines()
 papers = {}
-i = 0
-while i < len(lines) :
+j = 0;
+line = file.readline()
+
+while line :
     paper = {}
     paper['references'] = []
-    while lines[i] !=  '  \r\n' :
-        line = lines[i].strip()
+    while line !=  '  \r\n' :
+        line = line.strip()
 
         '''
         #index ---- index id of this paper
@@ -39,20 +37,20 @@ while i < len(lines) :
         if line.startswith('#index') : paper['index']        = line[len('#index'):]
         if line.startswith('#*') :     paper['title']        = line[len('#*'):]
         if line.startswith('#@') :     paper['authors']      = line[len('#@'):].split(',')
-        if line.startswith('#o') :     paper['affiliations'] = line[len('#o'):]
+        if line.startswith('#o') :     paper['affiliations'] = line[len('#o'):].split(',')
         if line.startswith('#t') :     paper['year']         = line[len('#t'):]
         if line.startswith('#c') :     paper['publication']  = line[len('#c'):]
         if line.startswith('#!') :     paper['abstract']     = line[len('#!'):]
         if line.startswith('#%') :     paper['references'].append( line[len('#%'):] )
 
-        i += 1
+        line = file.readline()
 
 
     db.publications.insert_one(paper)
 
     print "[INFO] inserted into db paper", paper['index']
 
-    i += 1
+    line = file.readline()
 
 file.close()
 
