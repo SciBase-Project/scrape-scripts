@@ -41,12 +41,14 @@ while line :
         if line.startswith('#t') :     paper['year']         = line[len('#t'):]
         if line.startswith('#c') :     paper['publication']  = line[len('#c'):]
         if line.startswith('#!') :     paper['abstract']     = line[len('#!'):]
-        if line.startswith('#%') :     paper['references'].append( line[len('#%'):] )
+        if line.startswith('#%') :     
+                ref = line[len('#%'):]
+                if len(ref) != 0 :     paper['references'].append(ref)
 
         line = file.readline()
 
 
-    db.publications.insert_one(paper)
+    db.aminer.insert_one(paper)
 
     print "[INFO] inserted into db paper", paper['index']
 
