@@ -34,12 +34,12 @@ def ieee_authors(link):
         pass
 
 
-for i in range(200, 700):
+for i in range(1, 900):
     link = AUTHORS_LINK + str(i)
     ieee_authors(link)
 
 
 import json
-file = open("../output/ieee_author_affliation.json", "w")
+file = open("../output1/ieee_author_affliation.json", "w")
 file.write(json.dumps(data, indent=4))
 file.close()
