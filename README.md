@@ -1,2 +1,2 @@
-# Inter-nationality of Journals
+# Scrape Scripts for Aminer, IEEE, ACM and more.
 
