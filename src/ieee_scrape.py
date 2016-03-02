@@ -219,4 +219,20 @@ def store_article(arnumber) :
 
 
 
+if __name__ == "__main__":
+    import pymongo
+    client = pymongo.MongoClient("localhost", 27017)
+    db = client.scibase
+
+    for arn in xrange(1, 10**1) :
+        print "\nFetching article", arn
+
+        article = get_article(arn)
+        print article
+
+        db.ieee.insert_one(article)
+
+        print "Done storing article", arn
+
+
 
