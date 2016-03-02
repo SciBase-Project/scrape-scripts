@@ -1,5 +1,3 @@
-sudo: required
-
 language: python
 
 python:
@@ -19,5 +17,4 @@ install:
 
 # command to run tests
 script:
-  - cd test
-  - python ieee_scrap_test.py
+  - python -m test.ieee_scrape_test
