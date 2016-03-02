@@ -1,0 +1,23 @@
+sudo: required
+
+language: python
+
+python:
+  - "2.7"
+
+services:
+  - mongodb
+
+before_script:
+  - sleep 15
+
+# command to install dependencies
+install: 
+  - pip install pymongo
+  - pip install beautifulsoup4
+
+
+# command to run tests
+script:
+  - cd test
+  - python ieee_scrap_test.py
