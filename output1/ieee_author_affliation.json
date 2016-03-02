@@ -1,0 +1,2622 @@
+[
+    {
+        "author_affiliations": "Comput.Res.Inst.,Univ.ofSouthernCalifornia,LosAngeles,CA,USA|c|", 
+        "author_name": "Dubois, Michel"
+    }, 
+    {
+        "author_affiliations": "Dept.ofElectr.Eng.&Comput.Sci.,CaliforniaUniv.,Berkeley,CA,USA|c|", 
+        "author_name": "Ousterhout, John K."
+    }, 
+    {
+        "author_affiliations": "SequoiaSyst.,Marlboro,MA,USA|c|", 
+        "author_name": "Bernstein, Philip A."
+    }, 
+    {
+        "author_affiliations": "MotorolaInf.Syst.,Brampton,Ont.,Canada|c|", 
+        "author_name": "Lang, Gordon R."
+    }, 
+    {
+        "author_affiliations": "ImperialColl.ofSci.,Technol.&Med.,London,UK|c|", 
+        "author_name": "Moffett, Jonathan D."
+    }, 
+    {
+        "author_affiliations": "", 
+        "author_name": "Radatz, J."
+    }, 
+    {
+        "author_affiliations": "Lab.ofComput.&Inf.Sci.,HelsinkiUniv.ofTechnol.,Espoo,Finland|c|", 
+        "author_name": "Kohonen, Teuvo"
+    }, 
+    {
+        "author_affiliations": "Dept.ofElectr.Eng.,StanfordUniv.,CA,USA|c|", 
+        "author_name": "Widrow, B."
+    }, 
+    {
+        "author_affiliations": "AT&TBellLab.,Holmdel,NJ,USA|c|", 
+        "author_name": "Graf, Hans P."
+    }, 
+    {
+        "author_affiliations": "CaliforniaInst.ofTechnol.,Pasadena,CA,USA|c|", 
+        "author_name": "Hutchinson, James"
+    }, 
+    {
+        "author_affiliations": "NHKSci.&Tech.Res.Lab.,Tokyo,Japan|c|", 
+        "author_name": "Fukushima, Kunihiko"
+    }, 
+    {
+        "author_affiliations": "CenterforAdaptiveSyst.,BostonUniv.,MA,USA|c|", 
+        "author_name": "Carpenter, Gail A."
+    }, 
+    {
+        "author_affiliations": "RochesterUniv.,NY,USA|c|", 
+        "author_name": "Feldman, Jerome A."
+    }, 
+    {
+        "author_affiliations": "IBMThomasJ.WatsonRes.Center,YorktownHeights,NY,USA|c|", 
+        "author_name": "Linsker, Ralph"
+    }, 
+    {
+        "author_affiliations": "Dept.ofElectr.Eng.,TorontoUniv.,Ont.,Canada|c|", 
+        "author_name": "Smith, Kenneth C."
+    }, 
+    {
+        "author_affiliations": "Univ.PierreetMarieCurie,Paris,France|c|", 
+        "author_name": "Etiemble, Daniel"
+    }, 
+    {
+        "author_affiliations": "TohokuUniv.,Japan|c|", 
+        "author_name": "Kameyama, Michitaka"
+    }, 
+    {
+        "author_affiliations": "Dept.ofElectr.&Comput.Eng.,NavalPostgraduateSch.,Monterey,CA,USA|c|", 
+        "author_name": "Butler, Jon T."
+    }, 
+    {
+        "author_affiliations": "Fac.ofEng.,KyushuUniv.,Fukuoka,Japan|c|", 
+        "author_name": "Sasao, Tsutomu"
+    }, 
+    {
+        "author_affiliations": "CaliforniaUniv.,Berkeley,CA,USA|c|", 
+        "author_name": "Zadeh, Lofti A."
+    }, 
+    {
+        "author_affiliations": "DigitalEquip.Corp.Syst.Res.Center,PaloAlto,CA,USA|c|", 
+        "author_name": "Brown, Marc H."
+    }, 
+    {
+        "author_affiliations": "AT&TBellLab.,Holmdel,NJ,USA|c|", 
+        "author_name": "Nichols, Kathleen M."
+    }, 
+    {
+        "author_affiliations": "WashingtonUniv.,Seattle,WA,USA|c|", 
+        "author_name": "Bershad, Brian N."
+    }, 
+    {
+        "author_affiliations": "TRWDefenseSyst.Group,RedondoBeach,CA,USA|c|", 
+        "author_name": "Boehm, Barry W."
+    }, 
+    {
+        "author_affiliations": "PolitecnicodiTorino,Italy|c|", 
+        "author_name": "Camurati, Paolo"
+    }, 
+    {
+        "author_affiliations": "TektronixInc.,Beaverton,OR,USA|c|", 
+        "author_name": "Hooton, Alan R."
+    }, 
+    {
+        "author_affiliations": "StanfordUniv.,CA,USA|c|", 
+        "author_name": "Steenkiste, Peter"
+    }, 
+    {
+        "author_affiliations": "CenterforSupercomput.Res.&Dev.,IllinoisUniv.,Urbana,IL,USA|c|", 
+        "author_name": "Lalja, D. J."
+    }, 
+    {
+        "author_affiliations": "", 
+        "author_name": "Furht, B."
+    }, 
+    {
+        "author_affiliations": "Dept.ofComput.Sci.,CaliforniaInst.ofTechnol.,Pasadena,CA,USA|c|", 
+        "author_name": "Athas, William C."
+    }, 
+    {
+        "author_affiliations": "ThinkingMachinesCorp.,Cambridge,MA,USA|c|", 
+        "author_name": "Tucker, Lewis W."
+    }, 
+    {
+        "author_affiliations": "ArtificialIntelligenceLab.,MIT,Cambridge,MA,USA|c|", 
+        "author_name": "Rich, Charles"
+    }, 
+    {
+        "author_affiliations": "Dept.ofComput.Sci.,CornellUniv.,Ithaca,NY,USA|c|", 
+        "author_name": "Gries, David"
+    }, 
+    {
+        "author_affiliations": "JapanDefenseAgency,Setagaya,Tokyo,Japan|c|", 
+        "author_name": "Kato, K."
+    }, 
+    {
+        "author_affiliations": "CaliforniaUniv.,LosAngeles,CA,USA|c|", 
+        "author_name": "Lehecka, T."
+    }, 
+    {
+        "author_affiliations": "Lab.deBagneaux,CNET,France|c|", 
+        "author_name": "Correc, P."
+    }, 
+    {
+        "author_affiliations": "Ind.Res.Inst.,Chiba,Japan|c|", 
+        "author_name": "Takada, Youichi"
+    }, 
+    {
+        "author_affiliations": "Electrotech.Lab.,TsukubaSci.City,Ibaraki,Japan|c|", 
+        "author_name": "Watanabe, Masanobu"
+    }, 
+    {
+        "author_affiliations": "PlesseyRes.CaswellLtd.,Towcester,UK|c|", 
+        "author_name": "Buus, Jens"
+    }, 
+    {
+        "author_affiliations": "LSIRes.&Dev.Lab.,MitsubishiElectr.Corp.,Hyogo,Japan|c|", 
+        "author_name": "Kakimoto, Syoichi"
+    }, 
+    {
+        "author_affiliations": "LincolnLab.,MIT,Lexington,MA,USA|c|", 
+        "author_name": "Liau, Z.L."
+    }, 
+    {
+        "author_affiliations": "Dept.ofElectron.Eng.,TokyoUniv.,Japan|c|", 
+        "author_name": "Liu, Hai-Feng"
+    }, 
+    {
+        "author_affiliations": "AT&TBellLab.,MurrayHill,NJ,USA|c|", 
+        "author_name": "\u00d6berg, Magnus G."
+    }, 
+    {
+        "author_affiliations": "SouthernMethodistUniv.,Dallas,TX,USA|c|", 
+        "author_name": "Papannareddy, R."
+    }, 
+    {
+        "author_affiliations": "CaliforniaInst.ofTechnol.,Pasadena,CA,USA|c|", 
+        "author_name": "Lang, Robert J."
+    }, 
+    {
+        "author_affiliations": "BellNorthernRes.,Ottawa,Ont.,Canada|c|", 
+        "author_name": "Makino, Toshihiko"
+    }, 
+    {
+        "author_affiliations": "AT&TBellLab.,Holmdel,NJ,USA|c|", 
+        "author_name": "Heismann, Fred"
+    }, 
+    {
+        "author_affiliations": "Fac.ofEng.Sci.,OsakaUniv.,Japan|c|", 
+        "author_name": "Morimoto, Akihiro"
+    }, 
+    {
+        "author_affiliations": "Dept.ofPhys.,MIT,Cambridge,MA,USA|c|", 
+        "author_name": "Evangelides, S.G., Jr."
+    }, 
+    {
+        "author_affiliations": "MIT,Cambridge,MA,USA|c|", 
+        "author_name": "Hartemann, F."
+    }, 
+    {
+        "author_affiliations": "Dept.ofPhys.,Nat.TsinghuaUniv.,Hsinchu,Taiwan|c|", 
+        "author_name": "Sun, Chien Jen"
+    }, 
+    {
+        "author_affiliations": "Lab.ofAppl.Math.Phys.,Tech.Univ.ofDenmark,Lyngby,Denmark|c|", 
+        "author_name": "M\u00f8rk, Jesper"
+    }, 
+    {
+        "author_affiliations": "AT&TBellLab.,MurrayHill,NJ,USA|c|", 
+        "author_name": "Agrawal, Govind P."
+    }, 
+    {
+        "author_affiliations": "AT&TBellLab.,MurrayHill,NJ,USA|c|", 
+        "author_name": "Olsson, N. Anders"
+    }, 
+    {
+        "author_affiliations": "EcoleNat.SuperieuredesTelecommun.,Paris,France|c|", 
+        "author_name": "Petitbon, Isabelle"
+    }, 
+    {
+        "author_affiliations": "Fac.ofPhys.&Astron.,Friedrich-Schiller-Univ.,Jena,Germany|c|", 
+        "author_name": "Erdmann, Andreas"
+    }, 
+    {
+        "author_affiliations": "Dept.ofEng.Sci.,OxfordUniv.,UK|c|", 
+        "author_name": "Au, Leung-Bun"
+    }, 
+    {
+        "author_affiliations": "Inst.ofPhys.,Acad.ofSci.Tartu,EstonianSSR,USSR|c|", 
+        "author_name": "Treshchalov, Aleksej B."
+    }, 
+    {
+        "author_affiliations": "Electrotech.Lab.,Ibaraki,Japan|c|", 
+        "author_name": "Yamada, Kawakatsu"
+    }, 
+    {
+        "author_affiliations": "AT&TBellLab.,MurrayHill,NJ,USA|c|", 
+        "author_name": "Auston, David H."
+    }, 
+    {
+        "author_affiliations": "EdwardL.GinztonLab.,StanfordUniv.,CA,USA|c|", 
+        "author_name": "Weingarten, Kurt J."
+    }, 
+    {
+        "author_affiliations": "T.J.WatsonRes.Center,IBMRes.Div.,YorktownHeights,NY,USA|c|", 
+        "author_name": "Grischkowsky, Daniel R."
+    }, 
+    {
+        "author_affiliations": "AT&TEng.Res.Center,Princeton,NJ,USA|c|", 
+        "author_name": "Heutmaker, M.S."
+    }, 
+    {
+        "author_affiliations": "T.J.WatsonRes.Center,IBMRes.Div.,YorktownHeights,NY,USA|c|", 
+        "author_name": "May, Paul G."
+    }, 
+    {
+        "author_affiliations": "EdwardL.GinztonLab.,StanfordUniv.,CA,USA|c|", 
+        "author_name": "Kostenbauder, Adnah"
+    }, 
+    {
+        "author_affiliations": "Dept.ofElectr.&Comput.Eng.,IllinoisUniv.,Urbana,IL,USA|c|", 
+        "author_name": "Merkelo, Henri"
+    }, 
+    {
+        "author_affiliations": "AT&TBellLab.,MurrayHill,NJ,USA|c|", 
+        "author_name": "Smith, Peter R."
+    }, 
+    {
+        "author_affiliations": "AT&TBellLab.,Holmdel,NJ,USA|c|", 
+        "author_name": "Cruz, Carlos H Brito"
+    }, 
+    {
+        "author_affiliations": "", 
+        "author_name": "Lin, Wei-Zhu"
+    }, 
+    {
+        "author_affiliations": "AT&TBellLab.,Holmdel,NJ,USA|c|", 
+        "author_name": "Shah, Jagdeep"
+    }, 
+    {
+        "author_affiliations": "HughesRes.Lab.,Malibu,CA,USA|c|", 
+        "author_name": "Smirl, Arthur L."
+    }, 
+    {
+        "author_affiliations": "HughesRes.Lab.,Malibu,CA,USA|c|", 
+        "author_name": "Valley, George C."
+    }, 
+    {
+        "author_affiliations": "AT&TBellLab.,MurrayHill,NJ,USA|c|", 
+        "author_name": "Rothberg, L."
+    }, 
+    {
+        "author_affiliations": "Dept.ofPhys.&Electr.Eng.,CityColl.ofNewYork,NY,USA|c|", 
+        "author_name": "Junnarkar, Mahesh R."
+    }, 
+    {
+        "author_affiliations": "Dept.ofPhys.Electron.,HiroshimaUniv.,Japan|c|", 
+        "author_name": "Yamanishi, Masamichi"
+    }, 
+    {
+        "author_affiliations": "Dept.deFisica,Univ.FederaldeAlagoas,Maceio,Brazil|c|", 
+        "author_name": "Gouveia-Neto, A.S."
+    }, 
+    {
+        "author_affiliations": "Spectr-Phys.,Inc.,MountainView,CA,USA|c|", 
+        "author_name": "Kafka, James D."
+    }, 
+    {
+        "author_affiliations": "Dept.ofPhys.&Electr.Eng.,CityColl.ofNewYork,NY,USA|c|", 
+        "author_name": "Alfano, R.R."
+    }, 
+    {
+        "author_affiliations": "Dept.ofElectr.&Comput.Eng.,JohnsHopkinsUniv.,Baltimore,MD,USA|c|", 
+        "author_name": "Zhao, Weimin"
+    }, 
+    {
+        "author_affiliations": "MarylandUniv.,CollegePark,MD,USA|c|", 
+        "author_name": "Wai, P.K.A."
+    }, 
+    {
+        "author_affiliations": "Dept.ofElectr.Eng.,OsakaUniv.,Japan|c|", 
+        "author_name": "Kobayashi, Tetsuro"
+    }, 
+    {
+        "author_affiliations": "AT&TBellLab.,Holmdel,NJ,USA|c|", 
+        "author_name": "Knox, Wayne H."
+    }, 
+    {
+        "author_affiliations": "Lab.forLaserEnergetics,RochesterUniv.,NY,USA|c|", 
+        "author_name": "Maine, P."
+    }, 
+    {
+        "author_affiliations": "AT&TBellLab.,Holmdel,NJ,USA|c|", 
+        "author_name": "Sizer, Theodore, II"
+    }, 
+    {
+        "author_affiliations": "Sch.ofChem.Sci.,IllinoisUniv.,Urbana,IL,USA|c|", 
+        "author_name": "Postlewaite, Jay C."
+    }, 
+    {
+        "author_affiliations": "Dept.ofElectr.Eng.,MarylandUniv.,CollegePark,MD,USA|c|", 
+        "author_name": "Yan, Li"
+    }, 
+    {
+        "author_affiliations": "AT&TBellLab.,MurrayHill,NJ,USA|c|", 
+        "author_name": "Keller, U."
+    }, 
+    {
+        "author_affiliations": "Dept.ofPhys.,TexasUniv.,Austin,TX,USA|c|", 
+        "author_name": "Focht, Glenn"
+    }, 
+    {
+        "author_affiliations": "Inst.furTheor.Phys.,Aachen,WestGermany|c|", 
+        "author_name": "Sch\u00f6ll, Eckehard"
+    }, 
+    {
+        "author_affiliations": "LashMillerLab.,TorontoUniv.,Ont.,Canada|c|", 
+        "author_name": "McMorrow, Dale"
+    }, 
+    {
+        "author_affiliations": "Dept.ofPhys.,Tech.Univ.Munchen,Germany|c|", 
+        "author_name": "Zinth, W."
+    }, 
+    {
+        "author_affiliations": "Dept.ofChem.,MIT,Cambridge,MA,USA|c|", 
+        "author_name": "Ruhman, Sanford"
+    }, 
+    {
+        "author_affiliations": "Dept.ofChem.,MIT,Cambridge,MA,USA|c|", 
+        "author_name": "Ruhman, Sanford"
+    }, 
+    {
+        "author_affiliations": "Dept.ofElectr.Eng.,TexasA&MUniv.,CollegeStation,TX,USA|c|", 
+        "author_name": "Chan, A.K."
+    }, 
+    {
+        "author_affiliations": "AT&TBellLabs.,Holmdel,NJ,USA|c|", 
+        "author_name": "Campbell, J.C."
+    }, 
+    {
+        "author_affiliations": "Spectra-Phys.,MountainView,CA,USA|c|", 
+        "author_name": "Gerstenberger, D.C."
+    }, 
+    {
+        "author_affiliations": "Dept.ofElectron.&Electr.Eng.,LoughboroughUniv.ofTechnol.,UK|c|", 
+        "author_name": "Harry, J.E."
+    }, 
+    {
+        "author_affiliations": "Inst.furQuantenoptik,HannoverUniv.,WestGermany|c|", 
+        "author_name": "Feitisch, A."
+    }, 
+    {
+        "author_affiliations": "Dept.ofElectr.Eng.&Comput.Sci.,MIT,Cambridge,MA,USA|c|", 
+        "author_name": "Brorson, Stuart D."
+    }, 
+    {
+        "author_affiliations": "EcoleNat.SuperieureTelecommun.,Paris,France|c|", 
+        "author_name": "Doyle, Owen"
+    }, 
+    {
+        "author_affiliations": "Dept.ofAppl.Phys.,CaliforniaInst.ofTechnol.,Pasadena,CA,USA|c|", 
+        "author_name": "Vahala, Kerry J."
+    }, 
+    {
+        "author_affiliations": "Opt.Commun.Lab.,BeijingUniv.ofPosts&Telecommun.,China|c|", 
+        "author_name": "Feng, Tian"
+    }, 
+    {
+        "author_affiliations": "Dept.ofElectr.Eng.&Comput.Sci.,CaliforniaUniv.,Berkeley,CA,USA|c|", 
+        "author_name": "Weber, Jean-Pierre"
+    }, 
+    {
+        "author_affiliations": "CentredeRecherchesenPhys.desPlasmas,EcolePolytech.FederaledeLausanne,Switzerland|c|", 
+        "author_name": "Behn, Roland"
+    }, 
+    {
+        "author_affiliations": "Dept.ofEng.Sci.,OxfordUniv.,UK|c|", 
+        "author_name": "Heaton, John M."
+    }, 
+    {
+        "author_affiliations": "CenterforQuantumElectron.,TexasUniv.,Richardson,TX,USA|c|", 
+        "author_name": "Jahani, Hamid R."
+    }, 
+    {
+        "author_affiliations": "Dept.ofEng.Phys.,McMasterUniv.,Hamilton,Ont.,Canada|c|", 
+        "author_name": "Auyeung, Raymond C Y"
+    }, 
+    {
+        "author_affiliations": "Lab.d''Opt.Appliquee,EcolePolytech.-ENSTA,Palaiseau,France|c|", 
+        "author_name": "Bourdet, Gilbert L."
+    }, 
+    {
+        "author_affiliations": "AdelphiTechnol.Inc.,PaloAlto,CA,USA|c|", 
+        "author_name": "Piestrup, Melvin A."
+    }, 
+    {
+        "author_affiliations": "Dept.ofAppl.Math.,WashingtonUniv.,Seattle,WA,USA|c|", 
+        "author_name": "Li, Y.P."
+    }, 
+    {
+        "author_affiliations": "MITLincolnLab.,Lexington,MA,USA|c|", 
+        "author_name": "Abbas, Gregory L."
+    }, 
+    {
+        "author_affiliations": "R.Signals&RadarEstabl.,Malvern,UK|c|", 
+        "author_name": "Hill, Christopher A."
+    }, 
+    {
+        "author_affiliations": "NorwegianTelecommun.Adm.Res.Dept.,Kjeller,Norway|c|", 
+        "author_name": "Hafskjaer, Lars"
+    }, 
+    {
+        "author_affiliations": "ToshibaCorp.,Kawasaki,Japan|c|", 
+        "author_name": "Kurobe, Atsushi"
+    }, 
+    {
+        "author_affiliations": "EastmanKodak,Rochester,NY,USA|c|", 
+        "author_name": "Kahen, Keith B."
+    }, 
+    {
+        "author_affiliations": "Inst.ofPhys.,PolishAcad.ofSci.,Warsaw,Poland|c|", 
+        "author_name": "Bledowski, Aleksander"
+    }, 
+    {
+        "author_affiliations": "RockwellInt.Corp.,CanogaPark,CA,USA|c|", 
+        "author_name": "Bobbs, Bradley"
+    }, 
+    {
+        "author_affiliations": "Dept.ofPhys.,KaiserslauternUniv.,WestGermany|c|", 
+        "author_name": "Driedger, K.P."
+    }, 
+    {
+        "author_affiliations": "I.V.KurchatovInst.ofAtomicEnergy,Moscow,USSR|c|", 
+        "author_name": "Anisimov, V.N."
+    }, 
+    {
+        "author_affiliations": "DefenceElectron.Appl.Lab.,Dehradun,India|c|", 
+        "author_name": "Tyagi, Rakesh Kumar"
+    }, 
+    {
+        "author_affiliations": "Gen.Electr.Co.,Syracuse,NY,USA|c|", 
+        "author_name": "Chinn, S.R."
+    }, 
+    {
+        "author_affiliations": "Dept.ofElectr.&Comput.Eng.,TexasUniv.,Austin,TX,USA|c|", 
+        "author_name": "Motamedi, M."
+    }, 
+    {
+        "author_affiliations": "Dept.ofElectr.&Comput.Eng.,SanDiegoStateUniv.,CA,USA|c|", 
+        "author_name": "Massey, Gail A."
+    }, 
+    {
+        "author_affiliations": "Dept.ofElectr.Eng.,Technion,Haifa,Israel|c|", 
+        "author_name": "Weiss, Shimon"
+    }, 
+    {
+        "author_affiliations": "Dept.ofElectr.Eng.,UtahStateUniv.,Logan,UT,USA|c|", 
+        "author_name": "Chung, Yun C."
+    }, 
+    {
+        "author_affiliations": "SandersAssociates,Nashua,NH,USA|c|", 
+        "author_name": "Knights, M.G."
+    }, 
+    {
+        "author_affiliations": "GraduateSch.atNagatsuta,TokyoInst.ofTechnol.,Kanagawa,Japan|c|", 
+        "author_name": "Ohtsu, Motoichi"
+    }, 
+    {
+        "author_affiliations": "Dept.ofElectr.Eng.,EindhovenUniv.ofTechnol.,Netherlands|c|", 
+        "author_name": "Fronen, Rob J."
+    }, 
+    {
+        "author_affiliations": "DavidSarnoffRes.Center,Princeton,NJ,USA|c|", 
+        "author_name": "Evans, Gary A."
+    }, 
+    {
+        "author_affiliations": "BellCommun.Res.Inst.,Locust,NJ,USA|c|", 
+        "author_name": "Miller, Stewart E."
+    }, 
+    {
+        "author_affiliations": "Dept.ofElectr.Eng.,Tech.Univ.ofNovaScotia,Halifax,NS,Canada|c|", 
+        "author_name": "Cada, M."
+    }, 
+    {
+        "author_affiliations": "AT&TBellLab.,Holmdel,NJ,USA|c|", 
+        "author_name": "Marcatili, Enrique A J"
+    }, 
+    {
+        "author_affiliations": "Inst.deInvestigacionesenMatematicasAplicadasyenSistemas,Univ.NacionalAutonomadeMexico,Mexico|c|", 
+        "author_name": "Weder, Ricardo"
+    }, 
+    {
+        "author_affiliations": "Dept.ofElectr.Eng.,FloridaUniv.,Gainesville,FL,USA|c|", 
+        "author_name": "Ramaswamy, Ramu V."
+    }, 
+    {
+        "author_affiliations": "Dept.ofElectr.Meas.,ChalmersUniv.ofTechnol.,Goteborg,Sweden|c|", 
+        "author_name": "Larsson, Anders"
+    }, 
+    {
+        "author_affiliations": "RockwellInt.,CanogaPark,CA,USA|c|", 
+        "author_name": "Bhowmik, Anup"
+    }, 
+    {
+        "author_affiliations": "Dept.ofPhys.&Res.Lab.ofElectron.,MIT,Cambridge,MA,USA|c|", 
+        "author_name": "Ashkenazy, J."
+    }, 
+    {
+        "author_affiliations": "Dept.ofEng.Sci.,OxfordUniv.,UK|c|", 
+        "author_name": "Erbschloe, D."
+    }, 
+    {
+        "author_affiliations": "Max-Planck-Inst.furBiophys.Chem.,Gottingen,WestGermany|c|", 
+        "author_name": "Voges, H."
+    }, 
+    {
+        "author_affiliations": "Dept.ofElectr.Eng.,ImperialColl.,London,UK|c|", 
+        "author_name": "Clarke, Richard H."
+    }, 
+    {
+        "author_affiliations": "R.Signals&RadarEstabl.,Malvern,UK|c|", 
+        "author_name": "Willetts, David V."
+    }, 
+    {
+        "author_affiliations": "LosAlamosNat.Lab.,NM,USA|c|", 
+        "author_name": "Tokar, R.L."
+    }, 
+    {
+        "author_affiliations": "BhabhaAtomicRes.Centre,Bombay,India|c|", 
+        "author_name": "Sinha, Binoy Kumar"
+    }, 
+    {
+        "author_affiliations": "HughesAircraftCo.,ElSegundo,CA,USA|c|", 
+        "author_name": "Parazzoli, Claudio G."
+    }, 
+    {
+        "author_affiliations": "SpectraDiodeLab.,SanJose,CA,USA|c|", 
+        "author_name": "Streifer, William"
+    }, 
+    {
+        "author_affiliations": "EdwardL.GinztonLab.,StanfordUniv.,CA,USA|c|", 
+        "author_name": "Fan, Tso Yee"
+    }, 
+    {
+        "author_affiliations": "EdwardL.GinztonLab.,StanfordUniv.,CA,USA|c|", 
+        "author_name": "Kozlovsky, William J."
+    }, 
+    {
+        "author_affiliations": "Inst.fuerAngewandtePhys.,HamburgUniv.,WestGermany|c|", 
+        "author_name": "Huber, G."
+    }, 
+    {
+        "author_affiliations": "EdwardL.GinztonLab.,StanfordUniv.,CA,USA|c|", 
+        "author_name": "Fan, Tso Yee"
+    }, 
+    {
+        "author_affiliations": "LawrenceLivermoreNat.Lab.,Livermore,CA,USA|c|", 
+        "author_name": "Stokowski, S.E."
+    }, 
+    {
+        "author_affiliations": "Gen.Phys.Inst.,Acad.ofSci.,Moscow,USSR|c|", 
+        "author_name": "Smirnov, V.A."
+    }, 
+    {
+        "author_affiliations": "SchwartzElectro-Opt.Inc.,Concord,MA,USA|c|", 
+        "author_name": "Moulton, Peter F."
+    }, 
+    {
+        "author_affiliations": "", 
+        "author_name": "Armagan, Guzin"
+    }, 
+    {
+        "author_affiliations": "Gen.Phys.Inst.,Acad.ofSci.,Moscow,USSR|c|", 
+        "author_name": "Shcherbakov, I.A."
+    }, 
+    {
+        "author_affiliations": "HughesRes.Lab.,Malibu,CA,USA|c|", 
+        "author_name": "Sumida, David Shuji"
+    }, 
+    {
+        "author_affiliations": "MITLincolnLab.,Lexington,MA,USA|c|", 
+        "author_name": "Sanchez, Antonio"
+    }, 
+    {
+        "author_affiliations": "MITLincolnLab.,Lexington,MA,USA|c|", 
+        "author_name": "Aggarwal, Roshan L."
+    }, 
+    {
+        "author_affiliations": "SolidliteCorp.,Redmond,WA,USA|c|", 
+        "author_name": "Eggleston, John M."
+    }, 
+    {
+        "author_affiliations": "MITLincolnLab.,Lexington,MA,USA|c|", 
+        "author_name": "Wall, Kevin F."
+    }, 
+    {
+        "author_affiliations": "NASALangleyRes.Center,Hampton,VA,USA|c|", 
+        "author_name": "Barnes, Norman P."
+    }, 
+    {
+        "author_affiliations": "NASALangleyRes.Center,Hampton,VA,USA|c|", 
+        "author_name": "Barnes, James C."
+    }, 
+    {
+        "author_affiliations": "MITLincolnLab.,Lexington,MA,USA|c|", 
+        "author_name": "Schulz, Peter A."
+    }, 
+    {
+        "author_affiliations": "NASALangleyRes.Center,Hampton,VA,USA|c|", 
+        "author_name": "Bair, Clayton H."
+    }, 
+    {
+        "author_affiliations": "Lab.dePhys.-ChimiedesMater.Luminescents,Univ.ClaudeBernarddeLyon,Villeurbanne,France|c|", 
+        "author_name": "Moncorge, R."
+    }, 
+    {
+        "author_affiliations": "Gen.Phys.Inst.,Acad.ofSci.,Moscow,USSR|c|", 
+        "author_name": "Basiev, Tasoltan T."
+    }, 
+    {
+        "author_affiliations": "PhysikalischesInst.,StuttgartUniv.,WestGermany|c|", 
+        "author_name": "Flassak, Wolfgang"
+    }, 
+    {
+        "author_affiliations": "LawrenceLivermoreNat.Lab.,CaliforniaUniv.,Livermore,CA,USA|c|", 
+        "author_name": "Caird, John A."
+    }, 
+    {
+        "author_affiliations": "LawrenceLivermoreNat.Lab.,CaliforniaUniv.,Livermore,CA,USA|c|", 
+        "author_name": "Shinn, Michelle D."
+    }, 
+    {
+        "author_affiliations": "Dept.ofChem.,BostonUniv.,MA,USA|c|", 
+        "author_name": "Wojtowicz, Andrzej J."
+    }, 
+    {
+        "author_affiliations": "Inst.fuerAngewandtePhys.,HamburgUniv.,WestGermany|c|", 
+        "author_name": "Clausen, Roger"
+    }, 
+    {
+        "author_affiliations": "CrystalPhys.&Opt.Electron.Lab.,MIT,Cambridge,MA,USA|c|", 
+        "author_name": "Knowles, David S."
+    }, 
+    {
+        "author_affiliations": "HughesRes.Lab.,Malibu,CA,USA|c|", 
+        "author_name": "Rockwell, David A."
+    }, 
+    {
+        "author_affiliations": "Allied-SignalInc.,Morristown,NJ,USA|c|", 
+        "author_name": "Samelson, Harold"
+    }, 
+    {
+        "author_affiliations": "Allied-SignalCorp.,WestlakeVillage,CA,USA|c|", 
+        "author_name": "Sam, Richard C."
+    }, 
+    {
+        "author_affiliations": "UltrafastSci.Center,RochesterUniv.,NY,USA|c|", 
+        "author_name": "Bado, Philippe"
+    }, 
+    {
+        "author_affiliations": "Inst.diFisicadelPolitecnico,Milan,Italy|c|", 
+        "author_name": "De Silvestri, Sandro"
+    }, 
+    {
+        "author_affiliations": "Opt.Inst.,Tech.Univ.Berlin,WestGermany|c|", 
+        "author_name": "Eichler, Hans J."
+    }, 
+    {
+        "author_affiliations": "SchwartzElectro-Opt.Inc.,Concord,MA,USA|c|", 
+        "author_name": "Harrison, James"
+    }, 
+    {
+        "author_affiliations": "Inst.ofLaserEng.,OsakaUniv.,Japan|c|", 
+        "author_name": "Yoshida, Kunio"
+    }, 
+    {
+        "author_affiliations": "Nucl.Res.Centre-Negev,Beer-Sheeva,Israel|c|", 
+        "author_name": "Lotem, Haim"
+    }, 
+    {
+        "author_affiliations": "ClevelandCrystalsInc.,HighlandHeights,OH,USA|c|", 
+        "author_name": "Catella, Gary C."
+    }, 
+    {
+        "author_affiliations": "Spindler&Hoyer,Gottingen,WestGermany|c|", 
+        "author_name": "Fuhrberg, P."
+    }, 
+    {
+        "author_affiliations": "Dept.ofIsotopeRes.,WeizmannInst.ofSci.,Rehovot,Israel|c|", 
+        "author_name": "Weksler, M."
+    }, 
+    {
+        "author_affiliations": "HitachiLtd.,Gunma,Japan|c|", 
+        "author_name": "Kubo, Masaharu"
+    }, 
+    {
+        "author_affiliations": "Semicond.DeviceEng.Lab.,ToshibaCorp.,Kawasaki,Japan|c|", 
+        "author_name": "Sawada, Kazuhiro"
+    }, 
+    {
+        "author_affiliations": "MatsushitaElectr.Ind.Co.Ltd.,Osaka,Japan|c|", 
+        "author_name": "Yamada, Toshio"
+    }, 
+    {
+        "author_affiliations": "HitachiLtd.,Tokyo,Japan|c|", 
+        "author_name": "Horiguchi, Masahi"
+    }, 
+    {
+        "author_affiliations": "IBMThomasJ.WatsonRes.Center,YorktownHeights,NY,USA|c|", 
+        "author_name": "Dhong, Sang H."
+    }, 
+    {
+        "author_affiliations": "CenterforIntegratedSyst.,StanfordUniv.,CA,USA|c|", 
+        "author_name": "Scheuerlein, Roy E."
+    }, 
+    {
+        "author_affiliations": "NECCorp.,Kanagawa,Japan|c|", 
+        "author_name": "Takeshima, Toshio"
+    }, 
+    {
+        "author_affiliations": "FujitsuLtd.,Kawasaki,Japan|c|", 
+        "author_name": "Shimada, Hiroshi"
+    }, 
+    {
+        "author_affiliations": "IBMThomasJ.WatsonRes.Center,YorktownHeights,NY,USA|c|", 
+        "author_name": "Chappell, Barbara A."
+    }, 
+    {
+        "author_affiliations": "NTTLSILabs.,Kanagawa,Japan|c|", 
+        "author_name": "Douseki, Takakuni"
+    }, 
+    {
+        "author_affiliations": "CenterforIntegratedSyst.,StanfordUniv.,CA,USA|c|", 
+        "author_name": "Chae, Soo-ik"
+    }, 
+    {
+        "author_affiliations": "WaferScaleIntegrationInc.,Fremont,CA,USA|c|", 
+        "author_name": "Ali, Syed B."
+    }, 
+    {
+        "author_affiliations": "MitsubishiElectr.Corp.,Itami,Japan|c|", 
+        "author_name": "Terada, Yasushi"
+    }, 
+    {
+        "author_affiliations": "Dept.ofElectr.Eng.&Comput.Sci.,NewSouthWalesUniv.,Kensington,NSW,Australia|c|", 
+        "author_name": "Horwitz, C.M."
+    }, 
+    {
+        "author_affiliations": "GeneralElectr.Co.,Schenectady,NY,USA|c|", 
+        "author_name": "Lin, Wen-Tai"
+    }, 
+    {
+        "author_affiliations": "SiemensAG,Munich,WestGermany|c|", 
+        "author_name": "Mattausch, Hans-j\u00fcrgen"
+    }, 
+    {
+        "author_affiliations": "MitsubishiElectr.Corp.,Hyogo,Japan|c|", 
+        "author_name": "Komori, Shinji"
+    }, 
+    {
+        "author_affiliations": "MitsubishiElectr.Corp.,Hyogo,Japan|c|", 
+        "author_name": "Ando, Hideki"
+    }, 
+    {
+        "author_affiliations": "Dept.ofElectron.Eng.,TohokuUniv.,Sendai,Japan|c|", 
+        "author_name": "Kawahito, Shoji"
+    }, 
+    {
+        "author_affiliations": "BellCommun.Res.Inc.,Morristown,NJ,USA|c|", 
+        "author_name": "Chao, H. Jonathan"
+    }, 
+    {
+        "author_affiliations": "NTTLSILabs.,Kanagawa,Japan|c|", 
+        "author_name": "Kamoto, Tsutomu"
+    }, 
+    {
+        "author_affiliations": "HitachiLtd.,Tokyo,Japan|c|", 
+        "author_name": "Watanabe, Tomoyuki"
+    }, 
+    {
+        "author_affiliations": "Dept.ofElectron.,KyotoUniv.,Japan|c|", 
+        "author_name": "Onodera, Hidetoshi"
+    }, 
+    {
+        "author_affiliations": "Dept.ofElectr.Eng.&Comput.Sci.,MIT,Cambridge,MA,USA|c|", 
+        "author_name": "McCarroll, Benjamin J."
+    }, 
+    {
+        "author_affiliations": "CNET,Meylan,France|c|", 
+        "author_name": "Assael, Jacques"
+    }, 
+    {
+        "author_affiliations": "MitsubishiCorp.,Tokyo,Japan|c|", 
+        "author_name": "Hagiwara, Hisatoshi"
+    }, 
+    {
+        "author_affiliations": "Dept.ofElectr.Eng.,NebraskaUniv.,Lincoln,NE,USA|c|", 
+        "author_name": "Ismail, Mohammed"
+    }, 
+    {
+        "author_affiliations": "Dept.ofElectr.Eng.&Comput.Sci.,MIT,Cambridge,MA,USA|c|", 
+        "author_name": "Garverick, Steven L."
+    }, 
+    {
+        "author_affiliations": "MitsubishiElectr.Corp.,Hyogo,Japan|c|", 
+        "author_name": "Kumamoto, Toshio"
+    }, 
+    {
+        "author_affiliations": "IBMThomasJ.WatsonRes.Center,YorktownHeights,NY,USA|c|", 
+        "author_name": "Tang, Denny D."
+    }, 
+    {
+        "author_affiliations": "Dept.ofElectr.Eng.,Nat.ChengKingUniv.,Tainan,Taiwan|c|", 
+        "author_name": "Lu, Erl-Huei"
+    }, 
+    {
+        "author_affiliations": "Dept.ofElectr.Eng.,VirginiaUniv.,Charlottesville,VA,USA|c|", 
+        "author_name": "Johnson, Barry W."
+    }, 
+    {
+        "author_affiliations": "MatsushitaElectr.Ind.Co.Ltd.,Osaka,Japan|c|", 
+        "author_name": "Yamada, Haruyasu"
+    }, 
+    {
+        "author_affiliations": "Honeywell,Minneapolis,MN,USA|c|", 
+        "author_name": "Vu, Tho T."
+    }, 
+    {
+        "author_affiliations": "Dept.ofElectr.Eng.,TexasA&MUniv.,Coll.Station,TX,USA|c|", 
+        "author_name": "Leung, Yu-Ying J."
+    }, 
+    {
+        "author_affiliations": "RockwellInt.,NewportBeach,CA,USA|c|", 
+        "author_name": "Lohia, Ramesh"
+    }, 
+    {
+        "author_affiliations": "Dept.ofElectron.&Comput.Sci.,SouthamptonUniv.,UK|c|", 
+        "author_name": "Chor, Eng-Fong"
+    }, 
+    {
+        "author_affiliations": "Dept.ofElectr.Eng.,RochesterUniv.,NY,USA|c|", 
+        "author_name": "Kacprzak, Tomasz"
+    }, 
+    {
+        "author_affiliations": "HoneywellSyst.&Res.Center,Minneapolis,MN,USA|c|", 
+        "author_name": "Vu, Tho T."
+    }, 
+    {
+        "author_affiliations": "Inf.Sci.Inst.Univ.ofSouthernCalifornia,MarinadelRey,CA,USA|c|", 
+        "author_name": "Lu, Shih-Lien"
+    }, 
+    {
+        "author_affiliations": "Dept.ofElectron.Syst.Eng.,EssexUniv.,Colchester,UK|c|", 
+        "author_name": "Jones, Edwin V."
+    }, 
+    {
+        "author_affiliations": "CenterforSolidStateElectron.Res.,ArizonaStateUniv.,Tempe,AZ,USA|c|", 
+        "author_name": "Lee, Hoon B."
+    }, 
+    {
+        "author_affiliations": "Dept.ofElectr.Eng.,AlbertaUniv.,Edmonton,Alta.,Canada|c|", 
+        "author_name": "Filanovsky, Igor M."
+    }, 
+    {
+        "author_affiliations": "Dept.ofElectr.Eng.,HawaiiUniv.,Honolulu,HI,USA|c|", 
+        "author_name": "Smith, M.J.S."
+    }, 
+    {
+        "author_affiliations": "Nat.Microelectron.Res.Centre,Univ.Coll.,Cork|c|", 
+        "author_name": "Conroy, C.S.G."
+    }, 
+    {
+        "author_affiliations": "CentreCommund''EtudesdeTelediffusionetTelecommun.,CessonSevigne,France|c|", 
+        "author_name": "Carlac, H. Jean-claude"
+    }, 
+    {
+        "author_affiliations": "AustriaMicrosyst.Inst.,Unterpremstaetten,Austria|c|", 
+        "author_name": "O'Leary, Paul L."
+    }, 
+    {
+        "author_affiliations": "Lab.deMicroelectron.,Univ.CatholiquedeLouvain,Louvain-la-Neuve,Belgium|c|", 
+        "author_name": "Denayer, Tony"
+    }, 
+    {
+        "author_affiliations": "Dept.ofElectr.Eng.,EdinburghUniv.,UK|c|", 
+        "author_name": "Chen, Wei"
+    }, 
+    {
+        "author_affiliations": "ESATLab.,KatholickeUniv.Leuven,Heverlee,Belgium|c|", 
+        "author_name": "Verbauwhede, Ingrid"
+    }, 
+    {
+        "author_affiliations": "NECCorp.,Kanagawa,Japan|c|", 
+        "author_name": "Inami, Daijiro"
+    }, 
+    {
+        "author_affiliations": "Inst.ofElectron.,Ruhr-Univ.Bochum,WestGermany|c|", 
+        "author_name": "Rein, Hans-Martin"
+    }, 
+    {
+        "author_affiliations": "ThomsonSemicond.,Orsay,France|c|", 
+        "author_name": "Schou, Guy"
+    }, 
+    {
+        "author_affiliations": "ThomsonHybridesetMicroondes,Orsay,France|c|", 
+        "author_name": "Dubois, Alain"
+    }, 
+    {
+        "author_affiliations": "Dept.ofElectr.Eng.,EdinburghUniv.,UK|c|", 
+        "author_name": "Murray, Alan F."
+    }, 
+    {
+        "author_affiliations": "AEGAG,Ulm,WestGermany|c|", 
+        "author_name": "Rugen, Irmtraud"
+    }, 
+    {
+        "author_affiliations": "IMECLab.,Heverlee,Belgium|c|", 
+        "author_name": "Croes, Kris"
+    }, 
+    {
+        "author_affiliations": "IMEC,Heverlee,Belgium|c|", 
+        "author_name": "Rijnders, L."
+    }, 
+    {
+        "author_affiliations": "Dept.ofElectr.Eng.,EdinburghUniv.,UK|c|", 
+        "author_name": "Smith, S.G."
+    }, 
+    {
+        "author_affiliations": "Inst.forMicroelectron.,Stuttgart,WestGermany|c|", 
+        "author_name": "Beunder, Michiel A."
+    }, 
+    {
+        "author_affiliations": "Electron.Lab.,ETH,Lausanne,Switzerland|c|", 
+        "author_name": "Robert, Jacques"
+    }, 
+    {
+        "author_affiliations": "Inst.fuerElektronik,Ruhr-Univ.Bochum,WestGermany|c|", 
+        "author_name": "Daniel, Detlef"
+    }, 
+    {
+        "author_affiliations": "Electron.Lab.,ETH,Lausanne,Switzerland|c|", 
+        "author_name": "Krummenacher, Fran\u00e7ois"
+    }, 
+    {
+        "author_affiliations": "Dept.ofElectr.Eng.,TwenteUniv.,Enschede,Netherlands|c|", 
+        "author_name": "Bult, Klaas"
+    }, 
+    {
+        "author_affiliations": "Dept.ofElectr.Eng.,DelftUniv.ofTechnol.,Netherlands|c|", 
+        "author_name": "Wolffenbuttel, Reinoud F."
+    }, 
+    {
+        "author_affiliations": "CentreSuissed''Electron.etdeMicrotech.,Neuchatel,Switzerland|c|", 
+        "author_name": "Vittoz, Eric A."
+    }, 
+    {
+        "author_affiliations": "Dept.Elektrotechniek,KatholiekeUniv.Leuven,Heverlee,Belgium|c|", 
+        "author_name": "Qiuting, Huang"
+    }, 
+    {
+        "author_affiliations": "PhilipsRes.Labs.,Eindhoven,Netherlands|c|", 
+        "author_name": "Seevinck, Evert"
+    }, 
+    {
+        "author_affiliations": "Fac.ofElectr.Eng.,TwenteUniv.,Enschede,Netherlands|c|", 
+        "author_name": "Wassenaar, Roelof F."
+    }, 
+    {
+        "author_affiliations": "SiemensAG,Munich,WestGermany|c|", 
+        "author_name": "Pribyl, W."
+    }, 
+    {
+        "author_affiliations": "AllenClarkRes.Centre,PlesseyRes.CaswellLtd.,Towcester,UK|c|", 
+        "author_name": "Saul, P.H."
+    }, 
+    {
+        "author_affiliations": "Dept.Elektrotechniek,KatholiekUniv.Leuven,Heverlee,Belgium|c|", 
+        "author_name": "Sansen, Willy M."
+    }, 
+    {
+        "author_affiliations": "EntwicklungszentrumfuerMikroelektronik,Villach,Austria|c|", 
+        "author_name": "Koroncai, A."
+    }, 
+    {
+        "author_affiliations": "Electr.Commun.Labs.,NTT,Kanagawa,Japan|c|", 
+        "author_name": "Ishikawa, Masayuki"
+    }, 
+    {
+        "author_affiliations": "HitachiLtd.,Tokyo,Japan|c|", 
+        "author_name": "Yamakido, Kazuo"
+    }, 
+    {
+        "author_affiliations": "AnalogDevices,Wilmington,MA,USA|c|", 
+        "author_name": "Close, Joann P."
+    }, 
+    {
+        "author_affiliations": "FujitsuLtd.,Atsugi,Japan|c|", 
+        "author_name": "Fujimaki, Norio"
+    }, 
+    {
+        "author_affiliations": "Dept.ofElectr.&Comput.Eng.,MassachusettsUniv.,Amherst,MA,USA|c|", 
+        "author_name": "Koren, Israel"
+    }, 
+    {
+        "author_affiliations": "AT&TBellLabs.,MurrayHill,NJ,USA|c|", 
+        "author_name": "Jindal, Renuka P."
+    }, 
+    {
+        "author_affiliations": "Dept.ofElectr.Eng.,VanderbiltUniv.,Nashville,TN,USA|c|", 
+        "author_name": "Kerns, David V., Jr."
+    }, 
+    {
+        "author_affiliations": "Dept.ofElectron.&Commun.,CairoUniv.,Giza,Egypt|c|", 
+        "author_name": "Talkhan, Elsayed A."
+    }, 
+    {
+        "author_affiliations": "Dept.ofElectr.&Comput.Eng.,SyracuseUniv.,NY,USA|c|", 
+        "author_name": "Tao, D.L."
+    }, 
+    {
+        "author_affiliations": "Dept.ofElectr.Eng.,Univ.ofSouthernCalifornia,LosAngeles,CA,USA|c|", 
+        "author_name": "Shih, Chih-Ching"
+    }, 
+    {
+        "author_affiliations": "PhilipsRes.Lab.,Eindhoven,Netherlands|c|", 
+        "author_name": "Kooperberg, Charles"
+    }, 
+    {
+        "author_affiliations": "Dept.ofElectr.&Comput.Eng.,CaliforniaUniv.,SantaBarbara,CA,USA|c|", 
+        "author_name": "Long, Stephen I."
+    }, 
+    {
+        "author_affiliations": "ToshibaCorp.,Kawasaki,Japan|c|", 
+        "author_name": "Sakurai, Takayasu"
+    }, 
+    {
+        "author_affiliations": "NECCorp.,Kanagawa,Japan|c|", 
+        "author_name": "Yamashina, Masakazu"
+    }, 
+    {
+        "author_affiliations": "Adv.MicroDevices,Sunnyvale,CA,USA|c|", 
+        "author_name": "Wahlstrom, Sven E."
+    }, 
+    {
+        "author_affiliations": "NECCorp.,Kanagawa,Japan|c|", 
+        "author_name": "Wada, Yoshifusa"
+    }, 
+    {
+        "author_affiliations": "Dept.ofElectr.Eng.&Comput.Sci.,MichiganUniv.,AnnArbor,MI,USA|c|", 
+        "author_name": "Mazumder, Pinaki"
+    }, 
+    {
+        "author_affiliations": "LSILab.,NTT,Kanagawa,Japan|c|", 
+        "author_name": "Sano, Eiichi"
+    }, 
+    {
+        "author_affiliations": "Dept.ofElectr.Eng.&Comput.Sci.,CaliforniaUniv.,Berkeley,CA,USA|c|", 
+        "author_name": "Toh, Kai-yap"
+    }, 
+    {
+        "author_affiliations": "Dept.deElectr.yElectron.,SevillaUniv.,Spain|c|", 
+        "author_name": "P\u00e9rez-Verdu, Bel\u00e9n"
+    }, 
+    {
+        "author_affiliations": "Dept.ofElectr.Eng.&Comput.Sci.,MIT,Cambridge,MA,USA|c|", 
+        "author_name": "Kung, Joseph T."
+    }, 
+    {
+        "author_affiliations": "SiliconSyst.Inc.,NevadaCity,CA,USA|c|", 
+        "author_name": "Hurst, Paul J."
+    }, 
+    {
+        "author_affiliations": "Dept.ofElectr.Eng.,MinnesotaUniv.,Minneapolis,MN,USA|c|", 
+        "author_name": "Park, Chin S."
+    }, 
+    {
+        "author_affiliations": "Dept.ofElectr.Eng.,TexasA&MUniv.,CollegeStation,TX,USA|c|", 
+        "author_name": "Van Peteghem, Peter M."
+    }, 
+    {
+        "author_affiliations": "VTCInc.,Bloomington,MN,USA|c|", 
+        "author_name": "Shier, John"
+    }, 
+    {
+        "author_affiliations": "IndianInst.ofTechnol.,NewDelhi,India|c|", 
+        "author_name": "Shanbhag, Naresh R."
+    }, 
+    {
+        "author_affiliations": "Univ.ofSouthernCalifornia,LosAngeles,CA,USA|c|", 
+        "author_name": "Lu, Shih-Lien"
+    }, 
+    {
+        "author_affiliations": "Dept.ofElectr.Eng.&Comput.Sci.,CaliforniaUniv.,Berkeley,CA,USA|c|", 
+        "author_name": "Ko, H."
+    }, 
+    {
+        "author_affiliations": "Dept.ofSyst.Sci.&Math.,WashingtonUniv.,St.Louis,MO,USA|c|", 
+        "author_name": "Zaborszky, John"
+    }, 
+    {
+        "author_affiliations": "Dept.ofElectr.Eng.&Comput.Sci.,CaliforniaUniv.,Berkeley,CA,USA|c|", 
+        "author_name": "Chiang, H.-D."
+    }, 
+    {
+        "author_affiliations": "Dept.ofSyst.DesignEng.,WaterlooUniv.,Ont.,Canada|c|", 
+        "author_name": "Yu, Pei"
+    }, 
+    {
+        "author_affiliations": "Dept.ofElectron.Eng.,ChangshaInst.ofTechnol.,China|c|", 
+        "author_name": "Wu, Zhen-jiang"
+    }, 
+    {
+        "author_affiliations": "Dept.ofElectr.&Comput.Eng.,NewcastleUniv.,NSW,Australia|c|", 
+        "author_name": "Middleton, Richard H."
+    }, 
+    {
+        "author_affiliations": "Dept.ofControlEng.,TokyoInst.ofTechnol.,Japan|c|", 
+        "author_name": "Hara, Shinji"
+    }, 
+    {
+        "author_affiliations": "Dept.ofElectr.Eng.,TennesseeStateUniv.,Nashville,TN,USA|c|", 
+        "author_name": "Keel, L.H."
+    }, 
+    {
+        "author_affiliations": "", 
+        "author_name": "Yam, Yeung"
+    }, 
+    {
+        "author_affiliations": "TauCorp.,LosGatos,CA,USA|c|", 
+        "author_name": "Hashemipour, Hamid R."
+    }, 
+    {
+        "author_affiliations": "Dept.ofSyst.Eng.,AustralianNat.Univ.,Canberra,ACT|c|", 
+        "author_name": "Niedzwiecki, Maciej"
+    }, 
+    {
+        "author_affiliations": "Dept.ofSyst.Eng.,AustralianNat.Univ.,Canberra,ACT|c|", 
+        "author_name": "Niedzwiecki, Maciej"
+    }, 
+    {
+        "author_affiliations": "Inst.Nat.deRechercheenInf.etenAutom.,Sophia-Antipolis,Valbonne,France|c|", 
+        "author_name": "Bernhard, P."
+    }, 
+    {
+        "author_affiliations": "Sch.ofInf.&Comput.Sci.,GeorgiaInst.ofTechnol.,Atlanta,GA,USA|c|", 
+        "author_name": "Ibe, Oliver C."
+    }, 
+    {
+        "author_affiliations": "MarylandUniv.,CollegePark,MD,USA|c|", 
+        "author_name": "Viniotis, Ioannis"
+    }, 
+    {
+        "author_affiliations": "Dept.ofElectr.Eng.,YaleUniv.,NewHaven,CT,USA|c|", 
+        "author_name": "Nehorai, Arye"
+    }, 
+    {
+        "author_affiliations": "Dept.ofElectr.Eng.,Technion-IsraelInst.ofTechnol.,Haifa,Israel|c|", 
+        "author_name": "Heymann, Michael"
+    }, 
+    {
+        "author_affiliations": "HoneywellSyst.&Res.Center,Minneapolis,MN,USA|c|", 
+        "author_name": "Krause, James M."
+    }, 
+    {
+        "author_affiliations": "Inst.fuerMess-undRegelungstech.,DuisburgUniv.,WestGermany|c|", 
+        "author_name": "Becker, Norbert"
+    }, 
+    {
+        "author_affiliations": "BellCommun.Res.,Morristown,NJ,USA|c|", 
+        "author_name": "Singh, R.P."
+    }, 
+    {
+        "author_affiliations": "Dept.ofElectr.Eng.,CaliforniaStateUniv.,LongBeach,CA,USA|c|", 
+        "author_name": "Komaroff, N."
+    }, 
+    {
+        "author_affiliations": "Dept.ofNucl.Eng.,TexasA&MUniv.,CollegeStation,TX,USA|c|", 
+        "author_name": "Parlos, A.G."
+    }, 
+    {
+        "author_affiliations": "BrownBoveri&Co.Ltd.,Baden,Switzerland|c|", 
+        "author_name": "Brand, Klaus-peter"
+    }, 
+    {
+        "author_affiliations": "Dept.ofElectr.&Comput.Eng.,NewcastleUniv.,NSW,Australia|c|", 
+        "author_name": "Middleton, Richard H."
+    }, 
+    {
+        "author_affiliations": "Dept.ofElectr.Eng.Syst.,Univ.ofSouthernCalifornia,LosAngeles,CA,USA|c|", 
+        "author_name": "E. De Gaston, Raymond"
+    }, 
+    {
+        "author_affiliations": "Sch.ofElectr.&Electron.Eng.,NanyangTechnol.Inst.,Singapore|c|", 
+        "author_name": "Foo, Yung Kuan"
+    }, 
+    {
+        "author_affiliations": "Res.Sch.ofPhys.Sci.,AustralianNat.Univ.,Canberra,ACT,Australia|c|", 
+        "author_name": "Postlethwaite, I."
+    }, 
+    {
+        "author_affiliations": "Dept.ofElectr.Eng.,VirginiaPolytech.Inst.&StateUniv.,Blacksburg,VA,USA|c|", 
+        "author_name": "Luse, D. William"
+    }, 
+    {
+        "author_affiliations": "Inst.ofSyst.Sci.,Acad.Sinica,Beijing,China|c|", 
+        "author_name": "Dai, Liyi"
+    }, 
+    {
+        "author_affiliations": "RAFAEL,Haifa,Israel|c|", 
+        "author_name": "Rusnak, Ilan"
+    }, 
+    {
+        "author_affiliations": "Dept.ofElectr.Eng.,VirginiaPolytech.Inst.&StateUniv.,Blacksburg,VA,USA|c|", 
+        "author_name": "Baumann, William T."
+    }, 
+    {
+        "author_affiliations": "Dept.ofMath.,HuazhongNormalUniv.,Wuhan,China|c|", 
+        "author_name": "Shigui, Ruan"
+    }, 
+    {
+        "author_affiliations": "Dept.ofElectr.Eng.,TexasUniv.,Arlington,TX,USA|c|", 
+        "author_name": "Yeung, Kai S."
+    }, 
+    {
+        "author_affiliations": "Dept.ofElectr.,Electron.&Comput.Eng.,TriesteUniv.,Italy|c|", 
+        "author_name": "Buja, Giuseppe S."
+    }, 
+    {
+        "author_affiliations": "GeneralMotorsRes.Lab.,Warren,MI,USA|c|", 
+        "author_name": "Marin, Samuel P."
+    }, 
+    {
+        "author_affiliations": "MiamiUniv.,CoralGables,FL,USA|c|", 
+        "author_name": "Hashemi, Ray H."
+    }, 
+    {
+        "author_affiliations": "USAirForceInst.ofTechnol.,Wright-PattersonAFB,OH,USA|c|", 
+        "author_name": "Kramer, Stuart C."
+    }, 
+    {
+        "author_affiliations": "Appl.Math.Res.Group,ChinaLake,CA,USA|c|", 
+        "author_name": "Martin, Joshua M."
+    }, 
+    {
+        "author_affiliations": "Dept.ofElectr.Eng.,DuisburgUniv.,WestGermany|c|", 
+        "author_name": "Becker, Neal"
+    }, 
+    {
+        "author_affiliations": "Div.ofAppl.Sci.,HarvardUniv.,Cambridge,MA,USA|c|", 
+        "author_name": "Ho, Yu Chi"
+    }, 
+    {
+        "author_affiliations": "Dept.ofMath.&Stat.,Queen''sUniv.,Kingston,Ont.,Canada|c|", 
+        "author_name": "Davis, John H."
+    }, 
+    {
+        "author_affiliations": "Dept.ofElectr.Eng.&Comput.Sci.,CaliforniaUniv.,Berkeley,CA,USA|c|", 
+        "author_name": "Cieslak, Randy"
+    }, 
+    {
+        "author_affiliations": "Dept.ofSyst.,PennsylvaniaUniv.,Philadelphia,PA,USA|c|", 
+        "author_name": "Ross, K.W."
+    }, 
+    {
+        "author_affiliations": "Dept.ofElectr.Eng.,StanfordUniv.,CA,USA|c|", 
+        "author_name": "Boyd, Stephen P."
+    }, 
+    {
+        "author_affiliations": "Syst.Res.Center,MarylandUniv.,CollegePark,MD,USA|c|", 
+        "author_name": "Fan, Michael K H"
+    }, 
+    {
+        "author_affiliations": "ChicagoUniv.,Urbana,IL,USA|c|", 
+        "author_name": "Saad, Youcef"
+    }, 
+    {
+        "author_affiliations": "Dept.ofElectr.Eng.,Technion-IsraelInst.ofTechnol.,Haifa,Israel|c|", 
+        "author_name": "Lewkowicz, Izchak"
+    }, 
+    {
+        "author_affiliations": "Dept.ofElectr.Eng.,WaterlooUniv.,Ont.,Canada|c|", 
+        "author_name": "Vidyasagar, M."
+    }, 
+    {
+        "author_affiliations": "Dept.ofElectr.Eng.,WaterlooUniv.,Ont.,Canada|c|", 
+        "author_name": "Vidyasagar, M."
+    }, 
+    {
+        "author_affiliations": "Dept.ofElectr.Eng.,VillanovaUniv.,PA,USA|c|", 
+        "author_name": "Perry, R.J."
+    }, 
+    {
+        "author_affiliations": "Dept.ofElectron.&Inf.,PaduaUniv.,Italy|c|", 
+        "author_name": "Lepschy, Antonio"
+    }, 
+    {
+        "author_affiliations": "Dept.ofElectr.Eng.,WestVirginiaUniv.,Morgantown,WV,USA|c|", 
+        "author_name": "Nagpal, Krishan"
+    }, 
+    {
+        "author_affiliations": "Inst.ofEng.Cybern.,Tech.Univ.ofWroclaw,Poland|c|", 
+        "author_name": "Janiak, Adam"
+    }, 
+    {
+        "author_affiliations": "Dept.ofSyst.Sci.&amp;Math.,WashingtonUniv.,St.Louis,MO|c|", 
+        "author_name": "Zaborszky, J."
+    }, 
+    {
+        "author_affiliations": "Univ.ofTechnol.Vienna,Austria|c|", 
+        "author_name": "Troch, I."
+    }, 
+    {
+        "author_affiliations": "McGillUniv.,Montreal,Que.,Canada|c|", 
+        "author_name": "Mermelstein, Paul"
+    }, 
+    {
+        "author_affiliations": "WorcesterPolytech.Inst.,MA,USA|c|", 
+        "author_name": "Pahlavan, Kaveh"
+    }, 
+    {
+        "author_affiliations": "FujitsuLabs.,Kawasaki,Japan|c|", 
+        "author_name": "Nakagami, T."
+    }, 
+    {
+        "author_affiliations": "", 
+        "author_name": "Mesiya, M. Farooque"
+    }, 
+    {
+        "author_affiliations": "BritishTelecomRes.Labs.,Ipswich,UK|c|", 
+        "author_name": "Fox, John R."
+    }, 
+    {
+        "author_affiliations": "RadioCommun.Syst.Lab.,NTT,Tokyo,Japan|c|", 
+        "author_name": "Hattori, Toshihiro"
+    }, 
+    {
+        "author_affiliations": "AtexInc.,Bedford,MA,USA|c|", 
+        "author_name": "Smith"
+    }, 
+    {
+        "author_affiliations": "Electr.Commun.Labs.,NTT,Kanagawa,Japan|c|", 
+        "author_name": "Nosu, Kiyoshi"
+    }, 
+    {
+        "author_affiliations": "NTT,Tokyo,Japan|c|", 
+        "author_name": "Sugimoto, Michio"
+    }, 
+    {
+        "author_affiliations": "TeknekronCommun.Syst.,Berkeley,CA,USA|c|", 
+        "author_name": "Lin, N. -S"
+    }, 
+    {
+        "author_affiliations": "GTELabs.,Waltham,MA,USA|c|", 
+        "author_name": "Rahnema, M."
+    }, 
+    {
+        "author_affiliations": "BellCommun.Res.,MurrayHill,NJ,USA|c|", 
+        "author_name": "Lin, S.H."
+    }, 
+    {
+        "author_affiliations": "At&TBellLabs.,MurrayHill,NJ,USA|c|", 
+        "author_name": "Marques, Todd E."
+    }, 
+    {
+        "author_affiliations": "BellCommun.Res.,Morristown,NJ,USA|c|", 
+        "author_name": "Sonnenwald, D.H."
+    }, 
+    {
+        "author_affiliations": "AT&TBellLabs.,MurrayHill,NJ,USA|c|", 
+        "author_name": "Horton, Elizabeth M."
+    }, 
+    {
+        "author_affiliations": "BurroughsCorp.,Pasadena,CA,USA|c|", 
+        "author_name": "Sachs, Sonia R."
+    }, 
+    {
+        "author_affiliations": "FairchildSpaceCo.,Germantown,MD,USA|c|", 
+        "author_name": "Chakraborty, D."
+    }, 
+    {
+        "author_affiliations": "", 
+        "author_name": "Klessig, R.W."
+    }, 
+    {
+        "author_affiliations": "", 
+        "author_name": "Mollenauer, James F."
+    }, 
+    {
+        "author_affiliations": "", 
+        "author_name": "Newman, Robert M."
+    }, 
+    {
+        "author_affiliations": "BellLabs.,Holmdel,NJ,USA|c|", 
+        "author_name": "Li, Tong"
+    }, 
+    {
+        "author_affiliations": "FairchildSpaceCo.,Germantown,MD,USA|c|", 
+        "author_name": "Chakraborty, D."
+    }, 
+    {
+        "author_affiliations": "", 
+        "author_name": "Vuong, X.T."
+    }, 
+    {
+        "author_affiliations": "DavidSarnoffRes.Center,Princeton,NJ,USA|c|", 
+        "author_name": "Raychaudhuri, Dipankar"
+    }, 
+    {
+        "author_affiliations": "HitachiLtd.,Tokyo,Japan|c|", 
+        "author_name": "Maeda, Minoru"
+    }, 
+    {
+        "author_affiliations": "NTTElectr.Commun.Labs.,Tokyo,Japan|c|", 
+        "author_name": "Shimohara, Katsunori"
+    }, 
+    {
+        "author_affiliations": "AT&TBellLabs.,MurrayHill,NJ,USA|c|", 
+        "author_name": "Malek, Miroslaw"
+    }, 
+    {
+        "author_affiliations": "", 
+        "author_name": "Chen, Thomas M."
+    }, 
+    {
+        "author_affiliations": "", 
+        "author_name": "Nilson, M.E."
+    }, 
+    {
+        "author_affiliations": "Dept.ofElectr.Eng.,StateUniv.ofNewYork,StonyBrook,NY,USA|c|", 
+        "author_name": "Robertazzi, Thomas G."
+    }, 
+    {
+        "author_affiliations": "CenterforEng.Design,UtahUniv.,SaltLakeCity,UT,USA|c|", 
+        "author_name": "Jacobsen, Stephen C."
+    }, 
+    {
+        "author_affiliations": "ClemsonUniv.,SC,USA|c|", 
+        "author_name": "Torgerson, E."
+    }, 
+    {
+        "author_affiliations": "Dept.ofMech.Eng.,MinnesotaUniv.,Minneapolis,MN,USA|c|", 
+        "author_name": "Kazerooni, H."
+    }, 
+    {
+        "author_affiliations": "NBS,Gaithersburg,MD,USA|c|", 
+        "author_name": "Jun, J.-S."
+    }, 
+    {
+        "author_affiliations": "Hewlett-Packard,Cupertino,CA,USA|c|", 
+        "author_name": "Bihn, Daniel G."
+    }, 
+    {
+        "author_affiliations": "TexasUniv.,Austin,TX,USA|c|", 
+        "author_name": "Yang, Y.F."
+    }, 
+    {
+        "author_affiliations": "Dept.ofComput.Sci.,MichiganStateUniv.,EastLansing,MI,USA|c|", 
+        "author_name": "Stockman, GeorgeC"
+    }, 
+    {
+        "author_affiliations": "Dept.ofElectr.&Comput.Eng.,IowaUniv.,IowaCity,IA,USA|c|", 
+        "author_name": "Yang, Hyung Suk"
+    }, 
+    {
+        "author_affiliations": "Dept.ofElectr.&Comput.Eng.,TexasUniv.,Austin,TX,USA|c|", 
+        "author_name": "Jordan, R., III"
+    }, 
+    {
+        "author_affiliations": "SandiaNat.Labs.,Albuquerque,NM,USA|c|", 
+        "author_name": "Miller, Dwight P."
+    }, 
+    {
+        "author_affiliations": "Sch.ofElectr.Eng.,PurdueUniv.,WestLafayette,IN,USA|c|", 
+        "author_name": "Ghassemian, Hassan"
+    }, 
+    {
+        "author_affiliations": "Dept.ofElectr.Eng.&Comput.Sci.,GeorgeWashingtonUniv.,Washington,DC,USA|c|", 
+        "author_name": "Momenan, Reza"
+    }, 
+    {
+        "author_affiliations": "Sch.ofElectr.&Electron.Eng.,NanyangTech.Inst.,Singapore|c|", 
+        "author_name": "Mital, D.P."
+    }, 
+    {
+        "author_affiliations": "NASAAmesRes.Center,MoffettField,CA,USA|c|", 
+        "author_name": "Sridhar, Banavar"
+    }, 
+    {
+        "author_affiliations": "Nat.Sci.Found.,Washington,DC,USA|c|", 
+        "author_name": "Thomas, Robert J."
+    }, 
+    {
+        "author_affiliations": "AT&TBellLabs.,MurrayHill,NJ,USA|c|", 
+        "author_name": "Papathomas, T.V."
+    }, 
+    {
+        "author_affiliations": "USNavalPostgraduateSch.,Monterey,CA,USA|c|", 
+        "author_name": "Zyda, M.J."
+    }, 
+    {
+        "author_affiliations": "Dept.ofComput.Sci.,KansasUniv.,Lawrence,KS,USA|c|", 
+        "author_name": "Miller, J.R."
+    }, 
+    {
+        "author_affiliations": "Dept.ofComput.Sci.,HelsinkiUniv.ofTechnol.,Espoo,Finland|c|", 
+        "author_name": "Koivunen, M.-R."
+    }, 
+    {
+        "author_affiliations": "Dept.ofElectr.Eng.,CaliforniaUniv.,Berkeley,CA,USA|c|", 
+        "author_name": "Segal, M."
+    }, 
+    {
+        "author_affiliations": "Dept.ofComput.Sci.,BrighamYoungUniv.,Provo,UT,USA|c|", 
+        "author_name": "Olsen, D.R."
+    }, 
+    {
+        "author_affiliations": "", 
+        "author_name": "Blinn, J.F."
+    }, 
+    {
+        "author_affiliations": "JonathanCorp.,Norfolk,VA,USA|c|", 
+        "author_name": "Thatch, B.R."
+    }, 
+    {
+        "author_affiliations": "MinnesotaUniv.,Minneapolis,MN,USA|c|", 
+        "author_name": "Barris, W.C."
+    }, 
+    {
+        "author_affiliations": "Dept.ofMech.Eng.,MIT,Cambridge,MA,USA|c|", 
+        "author_name": "Gossard, D.C."
+    }, 
+    {
+        "author_affiliations": "Dept.ofComput.Sci.,NorthCarolinaUniv.,ChapelHill,NC,USA|c|", 
+        "author_name": "Glassner, A.S."
+    }, 
+    {
+        "author_affiliations": "HelsinkiUniv.ofTechnol.,Finland|c|", 
+        "author_name": "Kankaanpaa, A.I."
+    }, 
+    {
+        "author_affiliations": "Sch.ofPhys.&Math.Sci.,NorthCarolinaStateUniv.,Raleigh,NC,USA|c|", 
+        "author_name": "Chandler, R.E."
+    }, 
+    {
+        "author_affiliations": "IBMCorp.,Poughkeepsie,NY,USA|c|", 
+        "author_name": "Turner, J.U."
+    }, 
+    {
+        "author_affiliations": "Dept.ofComput.Sci.,NorthCarolinaUniv.,ChapelHill,NC,USA|c|", 
+        "author_name": "Levoy, M."
+    }, 
+    {
+        "author_affiliations": "IBMUKSci.Center,Winchester,UK|c|", 
+        "author_name": "Woodwark, J.R."
+    }, 
+    {
+        "author_affiliations": "Dept.ofComput.Sci.,MarylandUniv.,CollegePark,MD,USA|c|", 
+        "author_name": "Samet, H."
+    }, 
+    {
+        "author_affiliations": "EcolePolytech.FederaledeLausanne,Switzerland|c|", 
+        "author_name": "Nicoud, Jean-Daniel"
+    }, 
+    {
+        "author_affiliations": "Sch.ofElectr.Eng.,PurdueUniv.,WestLafayette,IN,USA|c|", 
+        "author_name": "Vlahos, Harry"
+    }, 
+    {
+        "author_affiliations": "SequentComput.Syst.Inc.,Beaverton,OR,USA|c|", 
+        "author_name": "Thakkar, Sanjeev"
+    }, 
+    {
+        "author_affiliations": "HitachiLtd.,Tokyo,Japan|c|", 
+        "author_name": "Inayoshi, Hideo"
+    }, 
+    {
+        "author_affiliations": "NECCorp.,Kawasaki,Japan|c|", 
+        "author_name": "Kimura, Shinya"
+    }, 
+    {
+        "author_affiliations": "ToshibaCorp.,Saiwaiku,Japan|c|", 
+        "author_name": "Miyata, M."
+    }, 
+    {
+        "author_affiliations": "Dept.ofInf.Sci.,TokyoUniv.,Japan|c|", 
+        "author_name": "Sakamura, K."
+    }, 
+    {
+        "author_affiliations": "Dept.ofInf.Sci.,TokyoUniv.,Japan|c|", 
+        "author_name": "Sakamura, Ken"
+    }, 
+    {
+        "author_affiliations": "Fac.ofElectr.&Comput.Eng.,MiamiUniv.,CoralGables,FL,USA|c|", 
+        "author_name": "Furht, Borivoje"
+    }, 
+    {
+        "author_affiliations": "IntelCorp.,SantaClara,CA,USA|c|", 
+        "author_name": "Purkiser, Clif"
+    }, 
+    {
+        "author_affiliations": "VLSITechnol.Inc.,Tempe,AZ,USA|c|", 
+        "author_name": "Cates, Ron"
+    }, 
+    {
+        "author_affiliations": "TexasInstrum.,Houston,TX,USA|c|", 
+        "author_name": "Guttag, K.M."
+    }, 
+    {
+        "author_affiliations": "MIPSComput.Syst.,Sunnyvale,CA,USA|c|", 
+        "author_name": "Rowen, C."
+    }, 
+    {
+        "author_affiliations": "IntelCorp.,Chandler,AZ,USA|c|", 
+        "author_name": "Ryan, David P."
+    }, 
+    {
+        "author_affiliations": "Nat.Semicond.,SantaClara,CA,USA|c|", 
+        "author_name": "Iacobovici, Sorin"
+    }, 
+    {
+        "author_affiliations": "USNavalOceanRes.&Dev.Activity,NSTL,MS,USA|c|", 
+        "author_name": "Bucca, Paul J."
+    }, 
+    {
+        "author_affiliations": "RaytheonCo.,Portsmouth,RI,USA|c|", 
+        "author_name": "Simmons, Asa B."
+    }, 
+    {
+        "author_affiliations": "NorwegianHydrotech.Lab.,Trondheim,Norway|c|", 
+        "author_name": "Eidsvik, Karl J."
+    }, 
+    {
+        "author_affiliations": "OsservatorioGeofisicoSperimentale,Trieste,Italy|c|", 
+        "author_name": "Mosetti, Renzo A."
+    }, 
+    {
+        "author_affiliations": "Sch.ofInf.Syst.,EastAngliaUniv.,Norwich,UK|c|", 
+        "author_name": "Coates, Rodney F W"
+    }, 
+    {
+        "author_affiliations": "Dept.ofElectr.&Comput.Eng.,IowaUniv.,IowaCity,IA,USA|c|", 
+        "author_name": "Hanna, Magdy T."
+    }, 
+    {
+        "author_affiliations": "Dept.ofElectr.Eng.,DukeUniv.,Durham,NC,USA|c|", 
+        "author_name": "Alexandrou, Dimitri"
+    }, 
+    {
+        "author_affiliations": "Dept.ofElectron.&Electr.Eng.,Univ.Coll.,London,UK|c|", 
+        "author_name": "Wingham, Duncan J."
+    }, 
+    {
+        "author_affiliations": "Dept.ofElectr.Commun.Eng.,IndianInst.ofTechnol.,Bangalore,India|c|", 
+        "author_name": "Naidu, P.S."
+    }, 
+    {
+        "author_affiliations": "Sch.ofPhys.,BathUniv.,UK|c|", 
+        "author_name": "Pace, N.G."
+    }, 
+    {
+        "author_affiliations": "Inst.ofOceanSci.,Sidney,BC,Canada|c|", 
+        "author_name": "Topham, David R."
+    }, 
+    {
+        "author_affiliations": "Nat.Res.CouncilofCanada,Ottawa,Ont.,Canada|c|", 
+        "author_name": "Hill, Kenneth D."
+    }, 
+    {
+        "author_affiliations": "CanadianDept.ofFisheries&Oceans,BedfordInst.ofOceanogr.,Darmouth,NS,Canada|c|", 
+        "author_name": "Oakey, Neil S."
+    }, 
+    {
+        "author_affiliations": "EG&GOceanProductsInc.,Cataumet,MA,USA|c|", 
+        "author_name": "Brown, Neil L."
+    }, 
+    {
+        "author_affiliations": "EndecoInc.,Marion,MA,USA|c|", 
+        "author_name": "Brainard, Edward C., II"
+    }, 
+    {
+        "author_affiliations": "Dept.ofChem.,SoutheasternMassachusettsUniv.,N.Dartmouth,MA,USA|c|", 
+        "author_name": "Bessette, Russell R."
+    }, 
+    {
+        "author_affiliations": "Appl.Phys.Lab.,JohnsHopkinsUniv.,Laurel,MD,USA|c|", 
+        "author_name": "Nelson, Carl V."
+    }, 
+    {
+        "author_affiliations": "Electrochem.Ind.,Clarence,NY,USA|c|", 
+        "author_name": "Krehl, Paul W."
+    }, 
+    {
+        "author_affiliations": "", 
+        "author_name": "Stanic, Sava"
+    }, 
+    {
+        "author_affiliations": "Dept.ofElectron.,Polytech.ofMilan,Italy|c|", 
+        "author_name": "D\u00e9cina, Maurizio"
+    }, 
+    {
+        "author_affiliations": "AT&TBellLabs.,Holmdel,NJ,USA|c|", 
+        "author_name": "Dvorak, C.A."
+    }, 
+    {
+        "author_affiliations": "Telecommun.NetworkLabs.,NTT,Tokyo,Japan|c|", 
+        "author_name": "Kitawaki, Nobuhiro"
+    }, 
+    {
+        "author_affiliations": "Dept.ofElectr.Eng.,McGillUniv.,Montreal,Que.,Canada|c|", 
+        "author_name": "Yatrou, Paul"
+    }, 
+    {
+        "author_affiliations": "OkiElectr.Ind.Co.Ltd.,Tokyo,Japan|c|", 
+        "author_name": "Hosoda, Kenichiro"
+    }, 
+    {
+        "author_affiliations": "TransmissionSyst.Labs.,NTT,Kanagawa,Japan|c|", 
+        "author_name": "Taka, Masahiro"
+    }, 
+    {
+        "author_affiliations": "CNET,Lannion,France|c|", 
+        "author_name": "Maitre, Xavier"
+    }, 
+    {
+        "author_affiliations": "TransmissionSyst.Labs.,NTT,Kanagawa,Japan|c|", 
+        "author_name": "Taka, Masahiro"
+    }, 
+    {
+        "author_affiliations": "NECCorp.,Kawasaki,Japan|c|", 
+        "author_name": "Iwadare, Masahiro"
+    }, 
+    {
+        "author_affiliations": "AT&TBellLabs.,MurrayHill,NJ,USA|c|", 
+        "author_name": "Johnston, James D."
+    }, 
+    {
+        "author_affiliations": "NorwegianTelecommun.Adm.,Kjeller,Norway|c|", 
+        "author_name": "Natvig, Jon E."
+    }, 
+    {
+        "author_affiliations": "MotorolaCorp.,Schaumburg,IL,USA|c|", 
+        "author_name": "Mclaughlin, Michael J."
+    }, 
+    {
+        "author_affiliations": "RadioCommun.Syst.Labs.,NTT,Kanagawa,Japan|c|", 
+        "author_name": "Suda, Hirohito"
+    }, 
+    {
+        "author_affiliations": "AT&TBellLabs.,MurrayHill,NJ,USA|c|", 
+        "author_name": "Kroon, Peter"
+    }, 
+    {
+        "author_affiliations": "AT&TBellLabs.,MurrayHill,NJ,USA|c|", 
+        "author_name": "Ramamoorthy, V."
+    }, 
+    {
+        "author_affiliations": "TransmissionSyst.Labs.,NTT,Kanagawa,Japan|c|", 
+        "author_name": "Irie, Kazuki"
+    }, 
+    {
+        "author_affiliations": "AT&TBellLabs.,MurrayHill,NJ,USA|c|", 
+        "author_name": "Cox, Richard V."
+    }, 
+    {
+        "author_affiliations": "FujitsuLabs.Ltd.,Kawasaki,Japan|c|", 
+        "author_name": "Taniguchi, Tomohiko"
+    }, 
+    {
+        "author_affiliations": "NTTLabs.,Tokyo,Japan|c|", 
+        "author_name": "Moriya, Takherio"
+    }, 
+    {
+        "author_affiliations": "Dept.ofElectr.Eng.,MarylandUniv.,CollegePark,MD,USA|c|", 
+        "author_name": "Sugamura, Noboru"
+    }, 
+    {
+        "author_affiliations": "Dept.ofElectr.&Comput.Eng.,IllinoisInst.ofTechnol.,Chicago,IL,USA|c|", 
+        "author_name": "Sukkar, R.A."
+    }, 
+    {
+        "author_affiliations": "AT&TBellLab.,Middletown,NJ,USA|c|", 
+        "author_name": "Bernstein, Lawrence"
+    }, 
+    {
+        "author_affiliations": "USWESTAdv.Technol.Inc.,Englewood,CO,USA|c|", 
+        "author_name": "Ganesan, Kalyan"
+    }, 
+    {
+        "author_affiliations": "AT&TBellLab.,Middletown,NJ,USA|c|", 
+        "author_name": "Khan, Naseem A."
+    }, 
+    {
+        "author_affiliations": "BellCommun.Res.Inc.,RedBank,NJ,USA|c|", 
+        "author_name": "Liu, Da-Min D."
+    }, 
+    {
+        "author_affiliations": "BellCommun.Res.,Piscataway,NJ,USA|c|", 
+        "author_name": "Yudkin, Roman O."
+    }, 
+    {
+        "author_affiliations": "Bell-NorthernRes.,Ottawa,Ont.,Canada|c|", 
+        "author_name": "Peacocke, Dick"
+    }, 
+    {
+        "author_affiliations": "Dept.ofElectr.Eng.,EdinburghUniv.,UK|c|", 
+        "author_name": "Brown, Kenneth E."
+    }, 
+    {
+        "author_affiliations": "Dept.ofElectr.Eng.&Comput.Sci.,IllinoisUniv.,Chicago,IL,USA|c|", 
+        "author_name": "Tsai, Jeffrey J -P"
+    }, 
+    {
+        "author_affiliations": "Res.Inst.ofElectr.Commun.,TohokuUniv.,Sendai,Japan|c|", 
+        "author_name": "Takahashi, Kaoru"
+    }, 
+    {
+        "author_affiliations": "OKIElectr.Ind.Co.Ltd.,Tokyo,Japan|c|", 
+        "author_name": "Kinoshita, Tetsuo"
+    }, 
+    {
+        "author_affiliations": "Dept.ofComput.Sci.,IllinoisUniv.,Urbana,IL,USA|c|", 
+        "author_name": "Harandi, Mehdi T."
+    }, 
+    {
+        "author_affiliations": "Commun.&DistributedSyst.Lab..Ind.Technol.Inst.,AnnArbor,MI,USA|c|", 
+        "author_name": "Muralidhar, K.H."
+    }, 
+    {
+        "author_affiliations": "Res.Inst.ofElectr.Commun.,TohokuUniv.,Sendai,Japan|c|", 
+        "author_name": "Zhang, Yao-Xue"
+    }, 
+    {
+        "author_affiliations": "Dept.ofComput.&Inf.Sci.,OhioStateUniv.,Columbus,OH,USA|c|", 
+        "author_name": "Chandrasekaran, B."
+    }, 
+    {
+        "author_affiliations": "GTECommun.Syst.,Phoenix,AZ,USA|c|", 
+        "author_name": "Macleish, Kenneth J."
+    }, 
+    {
+        "author_affiliations": "TexasUniv.,Dallas,TX,USA|c|", 
+        "author_name": "Watson, B.C."
+    }, 
+    {
+        "author_affiliations": "Inst.ofSci.&Technol.,ManchesterUniv.,UK|c|", 
+        "author_name": "Taylor, A.J."
+    }, 
+    {
+        "author_affiliations": "", 
+        "author_name": "Schroeder, M.R."
+    }, 
+    {
+        "author_affiliations": "Dept.ofElectr.Eng.,RhodeIslandUniv.,RI,USA|c|", 
+        "author_name": "Sadasiv, G."
+    }, 
+    {
+        "author_affiliations": "Dept.ofElectr.Eng.,MinnesotaUniv.,Minneapolis,MN,USA|c|", 
+        "author_name": "Veen, Barry D Van"
+    }, 
+    {
+        "author_affiliations": "Dept.ofElectr.Eng.,VirginiaPolytech.Inst.,Blacksburg,VA,USA|c|", 
+        "author_name": "Armstrong, J.R."
+    }, 
+    {
+        "author_affiliations": "Comput.Syst.Lab.,StanfordUniv.,CA,USA|c|", 
+        "author_name": "Mitchell, Chad L."
+    }, 
+    {
+        "author_affiliations": "AT&TBellLabs.,Holmdel,NJ,USA|c|", 
+        "author_name": "Ghosh, Sumit"
+    }, 
+    {
+        "author_affiliations": "Dept.ofElectron.Eng.,HongKongPolytech.,Kowloon,HongKong|c|", 
+        "author_name": "Wong, J.S.L."
+    }, 
+    {
+        "author_affiliations": "AT&TBellLabs.,Holmdel,NJ,USA|c|", 
+        "author_name": "Feuer, M.D."
+    }, 
+    {
+        "author_affiliations": "IBMThomasJ.WatsonRes.Center,YorktownHeights,NY,USA|c|", 
+        "author_name": "Patton, Gary L."
+    }, 
+    {
+        "author_affiliations": "MatsushitaElectr.Ind.Co.Ltd.,Osaka,Japan|c|", 
+        "author_name": "Hori, Takashi"
+    }, 
+    {
+        "author_affiliations": "IBM,Ruschlikon,Switzerland|c|", 
+        "author_name": "Harder, Christon S."
+    }, 
+    {
+        "author_affiliations": "Dept.ofElectron.,Polytech.Inst.,Bucharest,Romania|c|", 
+        "author_name": "Silard, A."
+    }, 
+    {
+        "author_affiliations": "FairchildRes.Center,PaloAlto,CA,USA|c|", 
+        "author_name": "Kapoor, Ashok K."
+    }, 
+    {
+        "author_affiliations": "AT&TBellLabs.,MurrayHill,NJ,USA|c|", 
+        "author_name": "Manchanda, L."
+    }, 
+    {
+        "author_affiliations": "Nat.Semicond.Corp.,Puyallup,WA,USA|c|", 
+        "author_name": "Davis, Marshall"
+    }, 
+    {
+        "author_affiliations": "Dept.ofElectr.Eng.&Comput.Sci.,CaliforniaUniv.,Berkeley,CA,USA|c|", 
+        "author_name": "Chung, J."
+    }, 
+    {
+        "author_affiliations": "Motorola,Austin,TX,USA|c|", 
+        "author_name": "Pfiester, James R."
+    }, 
+    {
+        "author_affiliations": "Dept.ofElectron.,Polytech.Inst.,Bucharest,Romania|c|", 
+        "author_name": "Silard, Andrei P."
+    }, 
+    {
+        "author_affiliations": "Dept.ofPhys.,ChalmersUniv.ofTechnol.,Goteborg,Sweden|c|", 
+        "author_name": "S\u00f6derstr\u00f6m, Jan"
+    }, 
+    {
+        "author_affiliations": "TexasInstrum.Inc.,Dallas,TX,USA|c|", 
+        "author_name": "Kim, Bumman"
+    }, 
+    {
+        "author_affiliations": "AT&TBellLab.,MurrayHill,NJ,USA|c|", 
+        "author_name": "Wang, Kou-Wei"
+    }, 
+    {
+        "author_affiliations": "ToshibaCorp.,Kawasaki,Japan|c|", 
+        "author_name": "Uchitomi, Naotaka"
+    }, 
+    {
+        "author_affiliations": "Dept.ofElectr.&Electron.Eng.&Comput.Sci.,CaliforniaUniv.,Berkeley,CA,USA|c|", 
+        "author_name": "Ong, T.C."
+    }, 
+    {
+        "author_affiliations": "Dept.ofElectron.,BolognaUniv.,Italy|c|", 
+        "author_name": "Selmi, Luca"
+    }, 
+    {
+        "author_affiliations": "Dept.ofElectr.Eng.&Mat.Sci.,Univ.ofSouthernCalifornia,LosAngeles,CA,USA|c|", 
+        "author_name": "Forrest, Stephen R."
+    }, 
+    {
+        "author_affiliations": "BellCommun.Res.,RedBank,NJ,USA|c|", 
+        "author_name": "Chan, W.K."
+    }, 
+    {
+        "author_affiliations": "BendixAerosp.Technol.Center,Columbia,MD,USA|c|", 
+        "author_name": "Fathimulla, Mohammed A."
+    }, 
+    {
+        "author_affiliations": "BritishTelecomRes.Lab.,Ipswich,UK|c|", 
+        "author_name": "Wake, D."
+    }, 
+    {
+        "author_affiliations": "StanfordElectron.Lab.,CA,USA|c|", 
+        "author_name": "King, A."
+    }, 
+    {
+        "author_affiliations": "IMEC,Heverlee,Belgium|c|", 
+        "author_name": "Bellens, R."
+    }, 
+    {
+        "author_affiliations": "LincolnLab.,MIT,Lexington,MA,USA|c|", 
+        "author_name": "Lee, Chun-Teh"
+    }, 
+    {
+        "author_affiliations": "HughesAircraftCo.,ElSegundo,CA,USA|c|", 
+        "author_name": "Sato, R.N."
+    }, 
+    {
+        "author_affiliations": "FujitsuLab.Ltd.,Atsugi,Japan|c|", 
+        "author_name": "Hikosaka, Kohki"
+    }, 
+    {
+        "author_affiliations": "Hewlett-PackardLab.,PaloAlto,CA,USA|c|", 
+        "author_name": "Chang, Shuo-Tung"
+    }, 
+    {
+        "author_affiliations": "Nat.Semicond.,PaloAlto,CA,USA|c|", 
+        "author_name": "El-Diwany, Monir H."
+    }, 
+    {
+        "author_affiliations": "Hewlett-PackardLab.,PaloAlto,CA,USA|c|", 
+        "author_name": "Kaneshiro, R.T."
+    }, 
+    {
+        "author_affiliations": "AT&TBellLab.,Holmdel,NJ,USA|c|", 
+        "author_name": "Sugiura, O."
+    }, 
+    {
+        "author_affiliations": "SpireCorp.,Bedford,MA,USA|c|", 
+        "author_name": "Tobin, Stephen P."
+    }, 
+    {
+        "author_affiliations": "IBMThomasJ.WatsonRes.Center,YorktownHeights,NY,USA|c|", 
+        "author_name": "Burghartz, J.N."
+    }, 
+    {
+        "author_affiliations": "Microelectron.Sci.Lab.,ColumbiaUniv.,NewYork,NY,USA|c|", 
+        "author_name": "Treyz, G.V."
+    }, 
+    {
+        "author_affiliations": "AT&TBellLabs.,MurrayHill,NJ,USA|c|", 
+        "author_name": "Vella-Coleiro, G.P."
+    }, 
+    {
+        "author_affiliations": "IllinoisUniv.,Urbana,IL,USA|c|", 
+        "author_name": "Kolodzey, J."
+    }, 
+    {
+        "author_affiliations": "HoneywellPhys.Sci.Center,Bloomington,MN,USA|c|", 
+        "author_name": "Akinwande, A.I."
+    }, 
+    {
+        "author_affiliations": "AT&TBellLabs.,Holmdel,NJ,USA|c|", 
+        "author_name": "Lebby, M.S."
+    }, 
+    {
+        "author_affiliations": "Dept.ofPhys.,CambridgeUniv.,UK|c|", 
+        "author_name": "Evason, A.F."
+    }, 
+    {
+        "author_affiliations": "Dept.ofElectr.,Comput.&Syst.Eng.,RensselaerPolytech.Inst.,Troy,NY,USA|c|", 
+        "author_name": "Chu, Sam S D"
+    }, 
+    {
+        "author_affiliations": "GeneralElectricCo.,Schenectady,NY,USA|c|", 
+        "author_name": "Nissan-Cohen, Y."
+    }, 
+    {
+        "author_affiliations": "HitachiLtd.,Ibaraki,Japan|c|", 
+        "author_name": "Mimura, Akio"
+    }, 
+    {
+        "author_affiliations": "Dept.ofElectr.&Comput.Eng.,TexasUniv.,Austin,TX,USA|c|", 
+        "author_name": "Ku, Y.H."
+    }, 
+    {
+        "author_affiliations": "Microelectron.Lab.,CatholicUniv.ofLouvain-la-Neuve,Belgium|c|", 
+        "author_name": "Flandre, Denis"
+    }, 
+    {
+        "author_affiliations": "MatsushitaElectr.Ind.Co.Ltd.,Osaka,Japan|c|", 
+        "author_name": "Hori, Takashi"
+    }, 
+    {
+        "author_affiliations": "EdwardL.GinztonLab.,StanfordUniv.,CA,USA|c|", 
+        "author_name": "Madden, C.J."
+    }, 
+    {
+        "author_affiliations": "AT&TBellLabs.,MurrayHill,NJ,USA|c|", 
+        "author_name": "Kim, Sung J."
+    }, 
+    {
+        "author_affiliations": "IBMThomasJ.WatsonRes.Center,YorktownHeights,NY,USA|c|", 
+        "author_name": "Kiehl, Richard A."
+    }, 
+    {
+        "author_affiliations": "Opto-Electron.Labs.,NTT,Kanagawa,Japan|c|", 
+        "author_name": "Fukano, Hideki"
+    }, 
+    {
+        "author_affiliations": "Inst.ofElectr.&Comput.Eng.,Nat.ChengKungUniv.,Tainan,Taiwan|c|", 
+        "author_name": "Nee, C.Y."
+    }, 
+    {
+        "author_affiliations": "CenterforIntegratedCircuits,StanfordUniv.,CA,USA|c|", 
+        "author_name": "Liu, David K Y"
+    }, 
+    {
+        "author_affiliations": "Dept.ofElectr.Eng.&Comput.Sci.,CaliforniaUniv.,Berkeley,CA,USA|c|", 
+        "author_name": "Lee, Jack"
+    }, 
+    {
+        "author_affiliations": "Allied-SignalAerosp.Co.,Columbia,MD,USA|c|", 
+        "author_name": "Fathimulla, A."
+    }, 
+    {
+        "author_affiliations": "CoordinatedSci.Lab.,IllinoisUniv.,Urbana,IL,USA|c|", 
+        "author_name": "Peng, C.K."
+    }, 
+    {
+        "author_affiliations": "CoordinatedSci.Lab.,IllinoisUniv.,Urbana,IL,USA|c|", 
+        "author_name": "Won, T."
+    }, 
+    {
+        "author_affiliations": "Dept.ofElectr.Eng.,DelftUniv.ofTechnol.,Netherlands|c|", 
+        "author_name": "Wolffenbuttel, R.F."
+    }, 
+    {
+        "author_affiliations": "WaferScaleIntegrationInc.,Fremont,CA,USA|c|", 
+        "author_name": "Eitan, Boaz"
+    }, 
+    {
+        "author_affiliations": "MotorolaInc.,Austin,TX,USA|c|", 
+        "author_name": "Pfiester, James R."
+    }, 
+    {
+        "author_affiliations": "Xerox,PaloAlto,CA,USA|c|", 
+        "author_name": "Huang, Tiao-Yuan"
+    }, 
+    {
+        "author_affiliations": "NorthCarolinaStateUniv.,Raleigh,NC,USA|c|", 
+        "author_name": "Moazed, K.L."
+    }, 
+    {
+        "author_affiliations": "", 
+        "author_name": "Hong, Won-Pyo"
+    }, 
+    {
+        "author_affiliations": "Honeywell,Bloomington,MN,USA|c|", 
+        "author_name": "Daniels, Robert R."
+    }, 
+    {
+        "author_affiliations": "HitachiLtd.,Tokyo,Japan|c|", 
+        "author_name": "Tanoue, T."
+    }, 
+    {
+        "author_affiliations": "Sch.ofElectr.Eng.,PurdueUniv.,W.Lafayette,IN,USA|c|", 
+        "author_name": "DeMoulin, Paul D."
+    }, 
+    {
+        "author_affiliations": "FordMicroelectron.Inc.,ColoradoSprings,CO,USA|c|", 
+        "author_name": "Ito, C."
+    }, 
+    {
+        "author_affiliations": "Sch.ofElectr.Eng.&Nat.NanofabricationFacility,CornellUniv.,Ithaca,NY,USA|c|", 
+        "author_name": "Nguyen, Loi D."
+    }, 
+    {
+        "author_affiliations": "AT&TBellLab.,MurrayHill,NJ,USA|c|", 
+        "author_name": "Capasso, Federico"
+    }, 
+    {
+        "author_affiliations": "Electrotech.Lab.,Ibaraki,Japan|c|", 
+        "author_name": "Tacano, M."
+    }, 
+    {
+        "author_affiliations": "BellCommun.Res.,RedBank,NJ,USA|c|", 
+        "author_name": "Lo, Y.H."
+    }, 
+    {
+        "author_affiliations": "Nat.Microelectron.Res.Centre,Univ.Coll.,Cork,Ireland|c|", 
+        "author_name": "Hobbs, L."
+    }, 
+    {
+        "author_affiliations": "AT&TBellLab.,Allentown,PA,USA|c|", 
+        "author_name": "Lu, Chih-Yuan"
+    }, 
+    {
+        "author_affiliations": "MotorolaInc.,Austin,TX,USA|c|", 
+        "author_name": "Pfiester, James R."
+    }, 
+    {
+        "author_affiliations": "FordAerosp.&Commun.Corp.,NewportBeach,CA,USA|c|", 
+        "author_name": "Mcnutt, Michael J."
+    }, 
+    {
+        "author_affiliations": "TexasInstrum.Inc.,Dallas,TX,USA|c|", 
+        "author_name": "Saunier, Paul"
+    }, 
+    {
+        "author_affiliations": "CoordinatedSci.Lab.,IllinoisUniv.,Urbana,IL,USA|c|", 
+        "author_name": "Higman, J.M."
+    }, 
+    {
+        "author_affiliations": "AT&TBellLabs.,MurrayHill,NJ,USA|c|", 
+        "author_name": "Sen, Susanta"
+    }, 
+    {
+        "author_affiliations": "CoordinatedSci.Lab.,IllinoisUniv.,Urbana,IL,USA|c|", 
+        "author_name": "Won, T."
+    }, 
+    {
+        "author_affiliations": "Dept.ofElectr.Eng.,KoreaAdv.Inst.ofSci.&Technol.,Seoul,SouthKorea|c|", 
+        "author_name": "Koh, Yo-Hwan"
+    }, 
+    {
+        "author_affiliations": "CorporateRes.&Dev.Center,Gen.ElectricCo.,Schenectady,NY,USA|c|", 
+        "author_name": "Baliga, B.Jayant"
+    }, 
+    {
+        "author_affiliations": "", 
+        "author_name": "Nagasawa, S."
+    }, 
+    {
+        "author_affiliations": "NTTLSILab.,Kanagawa,Japan|c|", 
+        "author_name": "Onodera, K."
+    }, 
+    {
+        "author_affiliations": "SonyCorp.Res.Center,Yokohama,Japan|c|", 
+        "author_name": "Kawai, H."
+    }, 
+    {
+        "author_affiliations": "IBMThomasJ.WatsonRes.Center,YorktownHeights,NY,USA|c|", 
+        "author_name": "Tiwari, Sunita"
+    }, 
+    {
+        "author_affiliations": "Dept.ofElectr.Eng.,KyushuUniv.,Fukuoka,Japan|c|", 
+        "author_name": "Nagata, Takeshi"
+    }, 
+    {
+        "author_affiliations": "DipartimentodiMatematicaeAppl.R.Caccioppoli,NapoliUniv.,Italy|c|", 
+        "author_name": "Bondi, Paola"
+    }, 
+    {
+        "author_affiliations": "PennsylvaniaUniv.,Philadelphia,PA,USA|c|", 
+        "author_name": "Durrant-Whyte, Hugh F."
+    }, 
+    {
+        "author_affiliations": "Dept.ofElectr.Eng.&Comput.Sci.,CaliforniaUniv.,Berkeley,CA,USA|c|", 
+        "author_name": "Li, Zexiang"
+    }, 
+    {
+        "author_affiliations": "DipartimentodiIngegneriaElettronica,SecondaUniv.diRoma,Italy|c|", 
+        "author_name": "Nicosia, Salvatore"
+    }, 
+    {
+        "author_affiliations": "AT&TBellLabs.,Columbus,OH,USA|c|", 
+        "author_name": "Ben-Arieh, D.H."
+    }, 
+    {
+        "author_affiliations": "Dept.ofElectr.Eng.&Comput.Eng.,Carnegie-MellonUniv.,Pittsburg,PA,USA|c|", 
+        "author_name": "Graettinger, Timothy J."
+    }, 
+    {
+        "author_affiliations": "Dept.ofElectr.Eng.,RhodeIslandUniv.,Kingston,RI,USA|c|", 
+        "author_name": "Vaccaro, Richard J."
+    }, 
+    {
+        "author_affiliations": "Dept.ofElectr.Eng.,OhioStateUniv.,Columbus,OH,USA|c|", 
+        "author_name": "Laroussi, Kader"
+    }, 
+    {
+        "author_affiliations": "Dept.ofComput.Sci.,PurdueUniv.,WestLafayette,IN,USA|c|", 
+        "author_name": "Bajaj, Chanderjit"
+    }, 
+    {
+        "author_affiliations": "GMFRoboticsCorp.,Troy,MI,USA|c|", 
+        "author_name": "Lia, Z.-C."
+    }, 
+    {
+        "author_affiliations": "Dept.ofElectr.Eng.,BritishColumbiaUniv.,Vancouver,BC,Canada|c|", 
+        "author_name": "Lobbezoo, Arnold J."
+    }, 
+    {
+        "author_affiliations": "CNRS,Toulouse,France|c|", 
+        "author_name": "Krotkov, Eric"
+    }, 
+    {
+        "author_affiliations": "Dept.ofElectr.&Comput.Eng.,SyracuseUniv.,NY,USA|c|", 
+        "author_name": "Isik, Can"
+    }, 
+    {
+        "author_affiliations": "Dept.ofElectr.Comput.&Syst.Eng.,RensselaerPolytech.Inst.,Troy,NY,USA|c|", 
+        "author_name": "Lee, Eng-Joo"
+    }, 
+    {
+        "author_affiliations": "Dept.ofComput.Sci.,StanfordUniv.,CA,USA|c|", 
+        "author_name": "Kanayama, Yutaka"
+    }, 
+    {
+        "author_affiliations": "Dept.ofElectr.Eng.,RhodeIslandUniv.,Kingston,RI,USA|c|", 
+        "author_name": "Rimey, Raymond D."
+    }, 
+    {
+        "author_affiliations": "Sch.ofElectr.Eng.,PurdueUniv.,WestLafayette,IN,USA|c|", 
+        "author_name": "Lee, C. S George"
+    }, 
+    {
+        "author_affiliations": "Mech.Eng.Lab.,MITI,TsukubaSci.City,Ibaraki,Japan|c|", 
+        "author_name": "Kaneko, Makoto"
+    }, 
+    {
+        "author_affiliations": "Dept.ofControlEng.,TokyoInst.ofTechnol.,Japan|c|", 
+        "author_name": "Sampei, Mitsuji"
+    }, 
+    {
+        "author_affiliations": "Sch.ofElectr.Eng.,PurdueUniv.,WestLafayette,IN,USA|c|", 
+        "author_name": "Hached, Mehrez"
+    }, 
+    {
+        "author_affiliations": "Dept.ofMech.Eng.,MinnesotaUniv.,Minneapolis,MN,USA|c|", 
+        "author_name": "Kazerooni, H."
+    }, 
+    {
+        "author_affiliations": "Dept.ofInd.Eng.,PohangInst.ofSci.&Technol.,SouthKorea|c|", 
+        "author_name": "Suh, Sukn-Hwan"
+    }, 
+    {
+        "author_affiliations": "Dept.ofElectr.&Comput.Eng.,TexasUniv.,Austin,TX,USA|c|", 
+        "author_name": "Walker, Ian D."
+    }, 
+    {
+        "author_affiliations": "GeorgeW.WoodruffSch.ofMech.Eng.,GeorgiaInst.ofTechnol.,Altanta,GA,USA|c|", 
+        "author_name": "Lee, Kok-Meng"
+    }, 
+    {
+        "author_affiliations": "GeorgeW.WoodruffSch.ofMech.Eng.,GeorgiaInst.ofTechnol.,Altanta,GA,USA|c|", 
+        "author_name": "Lee, Kok-Meng"
+    }, 
+    {
+        "author_affiliations": "Carnegie-MellonUniv.,Pittsburgh,PA,USA|c|", 
+        "author_name": "Erdmann, Michael A."
+    }, 
+    {
+        "author_affiliations": "Dept.ofMech.Eng.,McGillUniv.,Montreal,Que.,Canada|c|", 
+        "author_name": "Angeles, Jorge"
+    }, 
+    {
+        "author_affiliations": "Dept.ofElectr.&Comput.Eng.,NorthCarolinaStateUniv.,Raleigh,NC,USA|c|", 
+        "author_name": "Luo, Ren C."
+    }, 
+    {
+        "author_affiliations": "Dept.ofInd.&Manage.Eng.,IowaUniv.,IowaCity,IA,USA|c|", 
+        "author_name": "Kusiak, Andrew"
+    }, 
+    {
+        "author_affiliations": "Dept.ofInf.&Syst.,NaplesUniv.,Italy|c|", 
+        "author_name": "Sciavicco, Lorenzo"
+    }, 
+    {
+        "author_affiliations": "Dept.ofMech.Eng.,TexasA&MUniv.,CollegeStation,TX,USA|c|", 
+        "author_name": "Peterson, G.P."
+    }, 
+    {
+        "author_affiliations": "Dept.ofAeronaut.&Astronaut.,MIT,Cambridge,MA,USA|c|", 
+        "author_name": "Carignan, Craig R."
+    }, 
+    {
+        "author_affiliations": "CenterforAutom.Res.,MarylandUniv.,CollegePark,MD|c|", 
+        "author_name": "Le Moigne, Jacqueline"
+    }, 
+    {
+        "author_affiliations": "Nat.Chiao-TungUniv.,Hsinchu,Taiwan|c|", 
+        "author_name": "Lee, T.-T."
+    }, 
+    {
+        "author_affiliations": "SparAerosp.Ltd.,Weston,Ont.,Canada|c|", 
+        "author_name": "Yuan, Joseph S C"
+    }, 
+    {
+        "author_affiliations": "Dept.ofMech.Eng.,IllinoisUniv.,Chicago,IL,USA|c|", 
+        "author_name": "Gupta, Krishna C."
+    }, 
+    {
+        "author_affiliations": "Dept.ofMech.Eng.,CaliforniaUniv.,Irvine,CA,USA|c|", 
+        "author_name": "Bobrow, James E."
+    }, 
+    {
+        "author_affiliations": "Dept.ofComput.Sci.,OldDominionUniv.,Norfolk,VA,USA|c|", 
+        "author_name": "Rao, Nageswara S. V."
+    }, 
+    {
+        "author_affiliations": "", 
+        "author_name": "Simpson, R. William, Jr."
+    }, 
+    {
+        "author_affiliations": "ElectrolockInc.,ChagrinFalls,OH,USA|c|", 
+        "author_name": "Wojtecki, Rudy G."
+    }, 
+    {
+        "author_affiliations": "", 
+        "author_name": "Gill, Gordon J."
+    }, 
+    {
+        "author_affiliations": "3MCo.,St.Paul,MN,USA|c|", 
+        "author_name": "Richards, J.D."
+    }, 
+    {
+        "author_affiliations": "BruggCableProducts,Switzerland|c|", 
+        "author_name": "Zbinden, K."
+    }, 
+    {
+        "author_affiliations": "HitachiChem.Co.Ltd.,Yamazaki,Japan|c|", 
+        "author_name": "Makino, D."
+    }, 
+    {
+        "author_affiliations": "A/Z-TechInc.,FortWayne,IN,USA|c|", 
+        "author_name": "Klung, R.S."
+    }, 
+    {
+        "author_affiliations": "", 
+        "author_name": "Penn, William B."
+    }, 
+    {
+        "author_affiliations": "", 
+        "author_name": "Nattrass, David A."
+    }, 
+    {
+        "author_affiliations": "Sch.ofSci.&Eng.,WasedaUniv.,Tokyo,Japan|c|", 
+        "author_name": "Ichinose, N."
+    }, 
+    {
+        "author_affiliations": "RaychemCorp.,Detroit,MI,USA|c|", 
+        "author_name": "Kraus, Robert"
+    }, 
+    {
+        "author_affiliations": "RaychemCorp.,Detroit,MI,USA|c|", 
+        "author_name": "Starr, W.T."
+    }, 
+    {
+        "author_affiliations": "", 
+        "author_name": "Bernstein, Bruce"
+    }, 
+    {
+        "author_affiliations": "DowCorning,Midland,MI,USA|c|", 
+        "author_name": "Cuthbert, R.L."
+    }, 
+    {
+        "author_affiliations": "UndergroundSyst.Inc.,Armonk,NY,USA|c|", 
+        "author_name": "Boggs, S.A."
+    }, 
+    {
+        "author_affiliations": "All-UnionSci.Res.Inst.forRadioEquipment,Leningrad,USSR|c|", 
+        "author_name": "Pakholkov, Georgiy A."
+    }, 
+    {
+        "author_affiliations": "", 
+        "author_name": "Wright, Charles R."
+    }, 
+    {
+        "author_affiliations": "JetPropulsionLab.,CaliforniaInst.ofTechnol.,Pasadena,CA,USA|c|", 
+        "author_name": "Sue, M.K."
+    }, 
+    {
+        "author_affiliations": "Dept.ofElectr.Eng.,Queen''sUniv.,Kingston,Ont.,Canada|c|", 
+        "author_name": "Eastham, A.R."
+    }, 
+    {
+        "author_affiliations": "", 
+        "author_name": "Richardson, Avery G."
+    }, 
+    {
+        "author_affiliations": "", 
+        "author_name": "Newkirk, Dennis"
+    }, 
+    {
+        "author_affiliations": "Dept.ofInd.Manage.Syst.Eng.,Univ.ofSouthFlorida,Tampa,FL,USA|c|", 
+        "author_name": "Galbraith, Lissa"
+    }, 
+    {
+        "author_affiliations": "SouthwestTexasStateUniv.,SanMarcos,TX,USA|c|", 
+        "author_name": "Shah, Vivek"
+    }, 
+    {
+        "author_affiliations": "", 
+        "author_name": "Dwon, Larry"
+    }, 
+    {
+        "author_affiliations": "GeneralElectricCo.,Salem,VA,USA|c|", 
+        "author_name": "Thompson, K. Reed"
+    }, 
+    {
+        "author_affiliations": "Dept.ofElectr.Eng.,TempleUniv.,Philadelphia,PA,USA|c|", 
+        "author_name": "Alexander, Charles K."
+    }, 
+    {
+        "author_affiliations": "", 
+        "author_name": "Corbin, John C."
+    }, 
+    {
+        "author_affiliations": "USArmyMissileCommand,RedstoneArsenal,AL,USA|c|", 
+        "author_name": "Russell, Robert F."
+    }, 
+    {
+        "author_affiliations": "SelzerTechnol.EnterprisesInc.,SantaMonica,CA,USA|c|", 
+        "author_name": "Salzer, John M."
+    }, 
+    {
+        "author_affiliations": "", 
+        "author_name": "Ho, T.-L."
+    }, 
+    {
+        "author_affiliations": "WestinghouseElectr.Corp.,Baltimore,MD,USA|c|", 
+        "author_name": "Elengical, George"
+    }, 
+    {
+        "author_affiliations": "RockwellInt.,Anaheim,CA,USA|c|", 
+        "author_name": "Davis, Kathy"
+    }, 
+    {
+        "author_affiliations": "TRWDefenseSyst.Group,RedondoBeach,CA,USA|c|", 
+        "author_name": "Bamberger, Judy"
+    }, 
+    {
+        "author_affiliations": "HughesAircraftCo.,Fullerton,CA,USA|c|", 
+        "author_name": "Kisch, J.J."
+    }, 
+    {
+        "author_affiliations": "Dept.ofAeronaut.&Astronaut.,MIT,Cambridge,MA,USA|c|", 
+        "author_name": "Covert, Eugene E."
+    }, 
+    {
+        "author_affiliations": "BoeingAerosp.Co.,Seattle,WA,USA|c|", 
+        "author_name": "Oman, Henry"
+    }, 
+    {
+        "author_affiliations": "TrinityColl.,Hartford,CT,USA|c|", 
+        "author_name": "Bronzino, Joseph D."
+    }, 
+    {
+        "author_affiliations": "TRW,SanDiego,CA,USA|c|", 
+        "author_name": "Subramanyam, V.R."
+    }, 
+    {
+        "author_affiliations": "", 
+        "author_name": "Ashjaee, Javad"
+    }, 
+    {
+        "author_affiliations": "RockwellInt.Corp.,CedarRapids,IA,USA|c|", 
+        "author_name": "Blank, R.W."
+    }, 
+    {
+        "author_affiliations": "BoeingCo.,Seattle,WA,USA|c|", 
+        "author_name": "Woolett, Jerry F."
+    }, 
+    {
+        "author_affiliations": "TeledyneSyst.Co.,Northridge,CA,USA|c|", 
+        "author_name": "Dowell, J.A."
+    }, 
+    {
+        "author_affiliations": "USAirForceAeronaut.Lab.,Wright-PattersonAFB,OH,USA|c|", 
+        "author_name": "Harris, Robert L."
+    }, 
+    {
+        "author_affiliations": "MartinMariettaDenverAerosp.,CO,USA|c|", 
+        "author_name": "Hartley, Craig S."
+    }, 
+    {
+        "author_affiliations": "HoneywellInc.,Minneapolis,MN,USA|c|", 
+        "author_name": "Bye, C.T."
+    }, 
+    {
+        "author_affiliations": "BoeingMil.AirplaneCo.,Seattle,WA,USA|c|", 
+        "author_name": "Pohlmann, Lawrence D."
+    }, 
+    {
+        "author_affiliations": "HughesAircraftCo.,Fullerton,CA,USA|c|", 
+        "author_name": "Okawa, U.S."
+    }, 
+    {
+        "author_affiliations": "USNavalAirDev.Center,Warminster,PA,USA|c|", 
+        "author_name": "Lowenstein, George"
+    }, 
+    {
+        "author_affiliations": "TRW,RedondoBeach,CA,USA|c|", 
+        "author_name": "Camana, Peter"
+    }, 
+    {
+        "author_affiliations": "", 
+        "author_name": "Cohn, N."
+    }, 
+    {
+        "author_affiliations": "ElectricPowerConsultantsInc.,Scotia,NY,USA|c|", 
+        "author_name": "Undrill, John"
+    }, 
+    {
+        "author_affiliations": "EdisonElectr.Inst.,Washington,DC,USA|c|", 
+        "author_name": "Denny, Fred I."
+    }, 
+    {
+        "author_affiliations": "SouthernCo.Services,Birmingham,AL,USA|c|", 
+        "author_name": "Maughn, James N."
+    }, 
+    {
+        "author_affiliations": "SouthernCaliforniaEdisonCo.,CampPendleton,CA,USA|c|", 
+        "author_name": "Shirilau, Mark S."
+    }, 
+    {
+        "author_affiliations": "Dept.ofElectr.Eng.,AlabamaUniv.,Birmingham,AL,USA|c|", 
+        "author_name": "Jones, James R."
+    }
+]
