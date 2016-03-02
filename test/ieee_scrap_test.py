@@ -1,5 +1,6 @@
 from src import ieee_scrap
 
+
 ieee_scrap.store_article("400")
 ieee_scrap.store_article("1000")
 ieee_scrap.store_article("5000")
