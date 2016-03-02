@@ -1,11 +1,11 @@
-from src import ieee_scrap
+from src import ieee_scrape
 
 
-ieee_scrap.store_article("400")
-ieee_scrap.store_article("1000")
-ieee_scrap.store_article("5000")
-ieee_scrap.store_article("10000")
-ieee_scrap.store_article("50000")
+ieee_scrape.store_article("400")
+ieee_scrape.store_article("1000")
+ieee_scrape.store_article("5000")
+ieee_scrape.store_article("10000")
+ieee_scrape.store_article("50000")
 
 print "\nInserted articles"
 print "\nPrinting articles"
